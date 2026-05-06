@@ -1,0 +1,1513 @@
+[
+  {
+    "id": "gaussian-quadratic",
+    "media_type": "imagen generada por computadora",
+    "description": "Una imagen generada por computadora creada por A. Michael Noll en 1963, que muestra un patrón gaussiano-cuadrático. Esta obra es un ejemplo temprano del arte digital, y demuestra el uso de algoritmos matemáticos para crear composiciones visuales.",
+    "tags": [
+      "imagen digital"
+    ],
+    "title": "Gaussian-Quadratic",
+    "artist": "A. Michael Noll",
+    "year": "1963",
+    "location": "New Jersey, USA",
+    "image": "https://framemark.vam.ac.uk/collections/2011EY6947/full/735,/0/default.jpg",
+    "link": "https://collections.vam.ac.uk/item/O1193785/gaussian-quadratic-photograph-a-michael-noll/"
+  },
+  {
+    "id": "hummingbird",
+    "media_type": "animación generada por computadora",
+    "description": "Una animación generada por computadora de Charles Csuri en la que un colibrí es trazado por una fuerza invisible. La figura se fragmenta en segmentos de líneas en movimiento, se vuelve progresivamente abstracta, atraviesa variaciones mediante colapso y reformación, y finalmente es borrada hasta desaparecer en el espacio vacío.",
+    "tags": [
+      "película por computadora"
+    ],
+    "title": "Hummingbird",
+    "artist": "Charles Csuri",
+    "year": "1967",
+    "location": "New Jersey, USA",
+    "image": "https://images.squarespace-cdn.com/content/v1/6026d8eb9eefee535832378f/e0dde78a-c4e9-400e-bf1d-0638888370de/WebPlotterHummingbirdCircle%2B%281%29.jpg",
+    "link": "https://www.charlescsuri.com/historic/hummingbird"
+  },
+  {
+    "id": "catalog",
+    "media_type": "película generada por computadora",
+    "description": "Una animación generada por computadora de John Whitney producida como una compilación de experimentos visuales creados con una computadora analógica. La película presenta patrones geométricos y secuencias de movimiento sincronizadas con sonido, demostrando técnicas para generar imágenes animadas mediante computación mecánica.",
+    "tags": [
+      "imagen digital",
+      "película por computadora"
+    ],
+    "title": "Catalog",
+    "artist": "John Whitney",
+    "year": "1961",
+    "location": "California, USA",
+    "image": "https://img.youtube.com/vi/TbV7loKp69s/0.jpg",
+    "link": "https://www.youtube.com/watch?v=TbV7loKp69s"
+  },
+  {
+    "id": "3D",
+    "media_type": "imagen generada por computadora",
+    "description": "En 1960, Bela Julesz, en los Laboratorios Bell, experimenta con la textura y la percepción visual tridimensional utilizando técnicas computacionales para generar patrones aleatorios.",
+    "tags": [
+      "simulación",
+      "imagen digital"
+    ],
+    "title": "3d",
+    "artist": "Bela Julesz",
+    "year": "1960",
+    "location": "New Jersey, USA",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIeDjM4_lOrF1x6eYvUgUJ83w1FdKnPnxAbQ&s",
+    "link": "http://dada.compart-bremen.de/item/artwork/505"
+  },
+  {
+    "id": "23-ecke",
+    "media_type": "imagen generada por computadora",
+    "description": "Un dibujo de plóter generado por computadora en el que un polígono de 23 vértices es variado sistemáticamente mediante reglas algorítmicas. La obra presenta una secuencia de transformaciones geométricas que produce diferentes configuraciones de la misma forma, demostrando cómo los procedimientos matemáticos pueden generar variación visual.",
+    "tags": [
+      "imagen digital"
+    ],
+    "title": "23-Ecke",
+    "artist": "Georg Nees",
+    "year": "1968",
+    "location": "Germany",
+    "image": "https://zellyn.com/img/2024/nees/bild-22.png",
+    "link": "http://dada.compart-bremen.de/item/agent/15"
+  },
+  {
+    "id": "matrix-multiplication",
+    "media_type": "imagen generada por computadora",
+    "description": "Un portafolio compuesto por tres series separadas, generadas a partir de una matriz cuadrada producida por Nake en una computadora Telefunken T4. La matriz fue multiplicada sucesivamente por sí misma, creando nuevas matrices que se tradujeron en imágenes compuestas de signos visuales de una forma y color particulares.",
+    "tags": [
+      "imagen digital"
+    ],
+    "title": "Matrix Multiplication",
+    "artist": "Frieder Nake",
+    "year": "1967",
+    "location": "Germany",
+    "image": "https://dam.org/museum/wp-content/uploads/2020/10/Nake1976Matritzenmultiplikation.jpg",
+    "link": "https://proyectoidis.org/frieder-nake/"
+  },
+  {
+    "id": "permutations",
+    "media_type": "película generada por computadora",
+    "description": "Una película generada por computadora de John Whitney basada en sistemas de permutación. La obra presenta transformaciones ordenadas de elementos geométricos sincronizadas con sonido.",
+    "tags": [
+      "imagen digital",
+      "película por computadora"
+    ],
+    "title": "Permutations",
+    "artist": "John Whitney",
+    "year": "1968",
+    "location": "California, USA",
+    "image": "https://img.youtube.com/vi/BzB31mD4NmA/0.jpg",
+    "link": "http://youtube.com/watch?v=BzB31mD4NmA"
+  },
+  {
+    "id": "arabesque",
+    "media_type": "película generada por computadora",
+    "description": "Una película generada por computadora de John Whitney que explora el movimiento armónico a través de patrones geométricos. La obra desarrolla complejidad visual mediante la transformación continua de la forma.",
+    "tags": [
+      "imagen digital",
+      "película por computadora"
+    ],
+    "title": "Arabesque",
+    "artist": "John Whitney",
+    "year": "1975",
+    "location": "California, USA",
+    "image": "https://img.youtube.com/vi/cxkbScwt77g/0.jpg",
+    "link": "https://www.youtube.com/watch?v=cxkbScwt77g"
+  },
+  {
+    "id": "robot-k-456",
+    "media_type": "performance robótico",
+    "description": "Un robot antropomórfico controlado por radio de Nam June Paik y Shuya Abe, utilizado en performances públicos. El robot podía caminar, mover sus extremidades, reproducir discursos grabados e interactuar con el público en la calle, presentando una figura mecánica que combina sonido, movimiento y acción.",
+    "tags": [
+      "interactividad",
+      "robótica",
+      "performance"
+    ],
+    "title": "Robot K-456",
+    "artist": "Nam June Paik and Shuya Abe",
+    "year": "1964",
+    "location": "New York, USA",
+    "image": "https://cyberneticzoo.com/wp-content/uploads/k456-Nam-June-Paik-K456_p1-x640.jpg",
+    "link": "https://cyberneticzoo.com/robots-in-art/1964-robot-k-456-nam-june-paik-korean-shuya-abe-japanese/"
+  },
+  {
+    "id": "rosa-bosom",
+    "media_type": "performance robótico",
+    "description": "Una performer robótica controlada por radio de Bruce Lacey, diseñada como una actriz simulada. El robot podía moverse, producir sonido y participar en producciones teatrales, interpretando roles en escena e interactuando con actores humanos. Funcionaba como performer artificial dentro de eventos y entornos en vivo.",
+    "tags": [
+      "performance",
+      "robótica"
+    ],
+    "title": "R.O.S.A. B.O.S.O.M.",
+    "artist": "Bruce Lacey",
+    "year": "1965",
+    "location": "London, UK",
+    "image": "https://cyberneticzoo.com/wp-content/uploads/BruceLacy%20012-x640.jpg",
+    "link": "https://cyberneticzoo.com/robots/1965-rosa-bosom-bruce-lacey-british/"
+  },
+  {
+    "id": "square-tops",
+    "media_type": "escultura cibernética",
+    "description": "Una escultura cibernética de Wen-Ying Tsai compuesta por varillas metálicas vibrantes iluminadas con luz estroboscópica. La obra produce patrones visuales cambiantes a través de la interacción entre movimiento y luz, e incorpora un sistema de retroalimentación de audio que permite a los espectadores influir en el movimiento percibido mediante el sonido.",
+    "tags": [
+      "interactividad",
+      "película por computadora",
+      "imagen digital"
+    ],
+    "title": "Cybernetic Sculpture: Square Tops",
+    "artist": "Wen-Ying Tsai",
+    "year": "1969",
+    "location": "New York, USA",
+    "image": "https://media.tate.org.uk/art/images/work/L/L04/L04611_9.jpg",
+    "link": "https://www.tiktok.com/@museumtiktok/video/7449353653728759086"
+  },
+  {
+    "id": "homage-to-new-york",
+    "media_type": "performance cinético",
+    "description": "Una máquina cinética a gran escala de Jean Tinguely compuesta por motores, ruedas y objetos encontrados, diseñada para activarse y destruirse progresivamente a sí misma. Presentada una sola vez en el jardín de esculturas del Museo de Arte Moderno, la obra se desarrolló a través de acciones mecánicas temporizadas, produciendo movimiento, sonido y eventual autodestrucción frente al público.",
+    "tags": [
+      "performance",
+      "imagen digital"
+    ],
+    "title": "Homage to New York",
+    "artist": "Jean Tinguely",
+    "year": "1960",
+    "location": "New York, USA",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT4ceZ6Pu9YGCj4Y5GNGBMQwOv9yIYgmFP9ET2NtxJQYibZZ-jJqXUbf3TP_QmtnEgTVwWkusLSIXtEPl2dGbDy40RYG_dJcQTQOidjOVXOwUkdRKLv8a4r7xGu2myuxponhIXFvc3DQcd/w1200-h630-p-k-no-nu/lovemachineblog.jpg",
+    "link": "https://smarthistory.org/tinguely-homage-new-york/"
+  },
+  {
+    "id": "senster",
+    "media_type": "escultura cibernética",
+    "description": "Una escultura cibernética a gran escala de Edward Ihnatowicz compuesta por una estructura de acero controlada por un sistema informático. La obra utilizaba micrófonos y sensores Doppler para detectar sonido y movimiento, lo que le permitía responder en tiempo real girando y moviéndose hacia los espectadores o alejándose de ellos.",
+    "tags": [
+      "interactividad",
+      "robótica",
+      "imagen digital"
+    ],
+    "title": "Senster",
+    "artist": "Edward Ihnatowicz",
+    "year": "1970",
+    "location": "Eindhoven, Netherlands",
+    "image": "https://proyectoidis.org/wp-content/uploads/2013/08/senster9-lrg.jpg",
+    "link": "https://www.youtube.com/watch?v=CK7ZMRqyTWU"
+  },
+  {
+    "id": "88mc-carrier-wave",
+    "media_type": "instalación de radio",
+    "description": "Una instalación de Robert Barry que consiste en un transmisor de radio FM que emite ondas portadoras a una frecuencia específica (88 mc). La señal no es visible pero puede recibirse a través de una radio, produciendo tonos y variaciones de sonido según la intensidad de la señal, definiendo el espacio mediante transmisión electromagnética en lugar de objetos físicos.",
+    "tags": [
+      "sonido",
+      "instalación"
+    ],
+    "title": "88mc Carrier Wave (FM)",
+    "artist": "Robert Barry",
+    "year": "1968",
+    "location": "New York, USA",
+    "image": "https://www.noshowmuseum.com/content/images/1.%20OG%20B%20(Unsichtbare%20Kunst)/Barry5.png",
+    "link": "https://www.moma.org/collection/works/137431"
+  },
+  {
+    "id": "boolean-image-conceptual-typewriter",
+    "media_type": "instalación de computadora",
+    "description": "Una instalación informática interactiva donde una máquina de escribir sirve de interfaz a través de la cual una computadora procesa entradas alfanuméricas como lógica booleana: una matriz de indicaciones de decisión que la máquina puede detectar y convertir en salida visual en pantalla. La pieza invita al público a participar en el proceso de toma de decisiones computacional.",
+    "tags": [
+      "instalación",
+      "interactividad",
+      "imagen digital"
+    ],
+    "title": "Boolean Image / Conceptual Typewriter",
+    "artist": "Carl Fernbach-Flarsheim",
+    "year": "1970",
+    "location": "New York, USA",
+    "image": "https://generativeart.online/notes/intro/images/conceptual-typewriter-1.png",
+    "link": "https://rhizome.org/editorial/2013/jan/16/prosthetic-knowledge-picks-typewriter/"
+  },
+  {
+    "id": "i-am-sitting-in-a-room",
+    "media_type": "instalación sonora",
+    "description": "Una obra sonora de Alvin Lucier en la que graba su propia voz leyendo un texto, luego reproduce la grabación en la sala y la re-graba repetidamente. Con cada iteración, las frecuencias resonantes de la sala van dominando progresivamente el habla hasta que las palabras se vuelven ininteligibles, reemplazadas por completo por la firma acústica del espacio.",
+    "tags": [
+      "instalación",
+      "sonido",
+      "performance"
+    ],
+    "title": "I Am Sitting in a Room",
+    "artist": "Alvin Lucier",
+    "year": "1969",
+    "location": "Waltham, USA",
+    "image": "https://www.digitalinberlin.de/wordpress/wp-content/2024/06/AlvinLucier_1999.jpeg",
+    "link": "https://www.youtube.com/watch?v=DwPMv53k-a8"
+  },
+  {
+    "id": "send-receive",
+    "media_type": "performance vía satélite",
+    "description": "Un performance basado en satélite a través de transmisión de video en vivo. Como introducción al funcionamiento de los sistemas satelitales, Send/Receive extiende la crítica a los medios como mercancía planteando preguntas sobre el derecho de las personas a acceder a los satélites.",
+    "tags": [
+      "performance",
+      "red"
+    ],
+    "title": "Send/Receive",
+    "artist": "Liza Béar and Keith Sonnier",
+    "year": "1977",
+    "location": "New York / San Francisco, USA",
+    "image": "https://img.youtube.com/vi/sPZUlqNO0Io/0.jpg",
+    "link": "https://toolkitfortheinbetween.com/case-studies/send-receive-satellite-network-some-history/"
+  },
+  {
+    "id": "the-world-in-24-hours",
+    "media_type": "evento de telecomunicaciones",
+    "description": "Un evento en red de 24 horas concebido por Robert Adrian X para Ars Electronica, que conectó a artistas en 16 ciudades de tres continentes. Siguiendo el mediodía solar alrededor del mundo, cada ciudad era contactada desde Linz al mediodía local y disponía de aproximadamente una hora para intercambiar material mediante televisión de exploración lenta, fax, audio telefónico y la red informática ARTEX.",
+    "tags": [
+      "red",
+      "interactividad"
+    ],
+    "title": "The World in 24 Hours",
+    "artist": "Robert Adrian X",
+    "year": "1982",
+    "location": "Linz, Austria",
+    "image": "https://d1v7jayx2s9clc.cloudfront.net/user/pages/47.the-world-in-24-hours/1.01a%20262f3d665f3ebe0bb7af2a1044ea9d23.jpg",
+    "link": "https://anthology.rhizome.org/the-world-in-24-hours"
+  },
+  {
+    "id": "the-last-9-minutes",
+    "media_type": "performance vía satélite",
+    "description": "Un performance en vivo vía satélite transmitido desde Documenta 6 en Kassel a más de 25 países, como parte de una emisión de 30 minutos compartida con Nam June Paik y Joseph Beuys. Invitó al público mundial a colocar las manos sobre la pantalla del televisor, intentando localizar y tocar a un espectador a través de la distancia.",
+    "tags": [
+      "red",
+      "interactividad",
+      "performance"
+    ],
+    "title": "The Last Nine Minutes",
+    "artist": "Douglas Davis",
+    "year": "1977",
+    "location": "Kassel, Germany / Caracas, Venezuela",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtezkOeWswyU2hzUHFjb1alH_zy7zW4s6Id1-oXYkwqTL5mSuR4tV2PwGN6Xv75uDbzeLDOaRQcJos26xkmjKwlLGYIpim3iTANhcgNe_gx9S5aN2ugAubdX5BQIz4b8VWxBIeabF5Co39/s1600/douglasdavisslowscan_sm.jpg",
+    "link": "https://proyectoidis.org/douglas-davis/"
+  },
+  {
+    "id": "satellite-arts-project",
+    "media_type": "performance vía satélite",
+    "description": "Un performance bidireccional vía satélite apoyado por la NASA, que compositó imágenes en vivo de bailarines en California y Maryland en un único espacio virtual compartido. Fue la primera vez que una imagen electrónica geográficamente dispersa fue concebida como un lugar inmersivo en vivo en lugar de una transmisión.",
+    "tags": [
+      "performance",
+      "red"
+    ],
+    "title": "Satellite Arts Project: A Space with No Geographical Boundaries",
+    "artist": "Kit Galloway and Sherrie Rabinowitz",
+    "year": "1977",
+    "location": "California / Maryland, USA",
+    "image": "https://d1v7jayx2s9clc.cloudfront.net/user/pages/46.mobile-image/sat_arts.png",
+    "link": "https://anthology.rhizome.org/mobile-image"
+  },
+  {
+    "id": "semiotics-of-the-kitchen",
+    "media_type": "video de canal único",
+    "description": "Un video en blanco y negro de 6 minutos en el que Martha Rosler parodia el formato del programa de cocina televisivo, recorriendo un inventario alfabético de utensilios de cocina. Sus demostraciones se vuelven progresivamente agresivas —apuñalando, cortando y haciendo hachazos— reemplazando el lenguaje domesticado del ama de casa con lo que ella llamó un léxico de rabia y frustración.",
+    "tags": [
+      "performance",
+      "video"
+    ],
+    "title": "Semiotics of the Kitchen",
+    "artist": "Martha Rosler",
+    "year": "1975",
+    "location": "New York, USA",
+    "image": "https://www.moma.org/media/W1siZiIsIjE0NjQ5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg",
+    "link": "https://www.youtube.com/watch?v=ZuZympOIGC0"
+  },
+  {
+    "id": "aaron",
+    "media_type": "sistema de dibujo autónomo",
+    "description": "Un programa de dibujo autónomo que genera imágenes a través de un conjunto de reglas codificadas que definen cómo se construyen formas, figuras y composiciones. En lugar de ejecutar imágenes predefinidas, AARON produce dibujos originales siguiendo una lógica procedimental.",
+    "tags": [
+      "imagen digital"
+    ],
+    "title": "AARON",
+    "artist": "Harold Cohen",
+    "year": "1973",
+    "location": "California, USA",
+    "image": "https://creacionhibrida.net/wp-content/uploads/2022/04/Turtlle-harold-cohen.jpg",
+    "link": "https://creacionhibrida.net/harold-cohen-un-pionero-del-arte-generado-por-computadora-y-creador-del-sistema-aaron/"
+  },
+  {
+    "id": "ufos",
+    "media_type": "película generada por computadora",
+    "description": "Una película generada por computadora de Lillian Schwartz compuesta por formas geométricas abstractas, campos de color y transformaciones rápidas. La obra explora el movimiento, el ritmo y la percepción visual mediante imágenes programadas y efectos estroboscópicos, produciendo patrones complejos que evolucionan más rápido de lo que pueden ser percibidos en su totalidad.",
+    "tags": [
+      "simulación",
+      "película por computadora"
+    ],
+    "title": "UFOs",
+    "artist": "Lillian Schwartz",
+    "year": "1971",
+    "location": "New Jersey, USA",
+    "image": "https://sto-je-novo.25fps.hr/img/modelImages/GalleryItem/default/T0rqt5f2e1CyZ51Ktm4pPfpeyVwiQdZz.jpg",
+    "link": "https://www.instagram.com/reels/DRUq0kNiDsc/"
+  },
+  {
+    "id": "metadata",
+    "media_type": "película generada por computadora",
+    "description": "Primera animación por fotogramas clave. Todos los fotogramas clave fueron dibujados por Foldes utilizando un ratón de computadora; la máquina generó los fotogramas intermedios, produciendo un fluido efecto de morphing.",
+    "tags": [
+      "imagen digital",
+      "película por computadora"
+    ],
+    "title": "Metadata",
+    "artist": "Peter Foldes",
+    "year": "1971",
+    "location": "Canada",
+    "image": "https://images.mubicdn.net/images/film/179687/cache-250605-1745494056/image-w1280.jpg",
+    "link": "https://www.youtube.com/watch?v=R6FQf3Qbqa4"
+  },
+  {
+    "id": "tv-buddha",
+    "media_type": "videoinstalación",
+    "description": "Una videoinstalación de circuito cerrado en la que una estatua de Buda del siglo XVIII se encuentra frente a un monitor de televisión que muestra una transmisión en vivo de sí misma, captada por una cámara apuntada hacia la estatua. La obra crea un bucle ininterrumpido de autoobservación, poniendo la práctica contemplativa antigua en confrontación directa con el medio de masas de la televisión.",
+    "tags": [
+      "instalación",
+      "interactividad",
+      "video"
+    ],
+    "title": "TV Buddha",
+    "artist": "Nam June Paik",
+    "year": "1974",
+    "location": "New York, USA",
+    "image": "https://miro.medium.com/v2/resize:fit:640/format:webp/0*8_UfVZasQq0803SR.jpg",
+    "link": "https://www.youtube.com/watch?v=F3NWNqH2Ayw"
+  },
+  {
+    "id": "aku",
+    "media_type": "imagen generada por computadora",
+    "description": "Una imagen generada por computadora producida en el Laboratorio de Propulsión a Chorro de la NASA. La obra forma parte de un entorno virtual navegable compuesto por espacios construidos digitalmente, constituyendo uno de los primeros ejemplos de un mundo generado por computadora explorable.",
+    "tags": [
+      "realidad virtual",
+      "3D"
+    ],
+    "title": "Aku",
+    "artist": "David Em",
+    "year": "1977",
+    "location": "Pasadena, USA",
+    "image": "https://photoworks.org.uk/app/uploads/2013/09/caption-3_Aku-700x576.jpg",
+    "link": "https://creacionhibrida.net/david-em-sus-creaciones-han-redefinido-el-territorio-del-arte-tecnologico/"
+  },
+  {
+    "id": "terminal-art",
+    "media_type": "arte telemático",
+    "description": "Un proyecto de conferencia por computadora que conectaba a participantes en Estados Unidos y el Reino Unido a través de terminales en red. Usando el Sistema de Bloc de Notas Infomedia de Jacques Vallée, los usuarios podían almacenar, recuperar y modificar información compartida, permitiendo la interacción colectiva y la autoría distribuida a través de una red de telecomunicaciones.",
+    "tags": [
+      "red",
+      "instalación",
+      "interactividad"
+    ],
+    "title": "Terminal Art",
+    "artist": "Roy Ascott",
+    "year": "1978",
+    "location": "United Kingdom / United States",
+    "image": "https://artelectronicmedia.com/wp-content/uploads/220px-Silent-700.jpg",
+    "link": "https://books.google.com.mx/books/about/Telematic_Embrace.html?id=cbAwDwAAQBAJ&redir_esc=y"
+  },
+  {
+    "id": "two-space",
+    "media_type": "película generada por computadora",
+    "description": "Una película generada por computadora de Larry Cuba que explora sistemáticamente las operaciones de simetría utilizadas en los patrones geométricos islámicos. La animación genera composiciones bidimensionales mediante traslaciones, rotaciones y reflexiones aplicadas a figuras básicas, produciendo estructuras visuales en evolución y efectos ópticos.",
+    "tags": [
+      "imagen digital",
+      "película por computadora"
+    ],
+    "title": "Two Space",
+    "artist": "Larry Cuba",
+    "year": "1979",
+    "location": "California, USA",
+    "image": "https://history.siggraph.org/wp-content/uploads/2018/09/Two-Space.jpg",
+    "link": "https://www.youtube.com/watch?v=ddd5z0CgPKg"
+  },
+  {
+    "id": "mona-leo",
+    "media_type": "imagen generada por computadora",
+    "description": "Un análisis de imagen asistido por computadora desarrollado en los Laboratorios Bell. Mediante el espejado, escalado y unión de escaneos de la Mona Lisa de Leonardo da Vinci y su Autorretrato, Schwartz produjo un compuesto en el que los rasgos faciales de ambas imágenes se alineaban con un margen del 2%, proponiendo que da Vinci se utilizó a sí mismo como modelo para la pintura.",
+    "tags": [
+      "simulación",
+      "imagen digital"
+    ],
+    "title": "Mona/Leo",
+    "artist": "Lillian Schwartz",
+    "year": "1987",
+    "location": "New Jersey, USA",
+    "image": "https://www.thehenryford.org/images/thehenryfordlibraries/blog-images/schwartz-mona-leo-continuity-data-1.png",
+    "link": "https://www.thehenryford.org/collections/explore/articles/lillian-schwartz-the-mona-leo-theory"
+  },
+  {
+    "id": "beauty-composites",
+    "media_type": "imagen generada por computadora",
+    "description": "Una serie de retratos compuestos generados por computadora de Nancy Burson, desarrollada en colaboración con investigadores del MIT. La obra promedia digitalmente múltiples rostros —incluyendo estrellas de cine y líderes mundiales— en imágenes únicas, examinando las construcciones culturales de belleza, género y raza a través de normas estadísticas de rasgos faciales.",
+    "tags": [
+      "simulación",
+      "imagen digital"
+    ],
+    "title": "First and Second Beauty Composites",
+    "artist": "Nancy Burson",
+    "year": "1982",
+    "location": "New York, USA",
+    "image": "https://clampart.com/wp-content/uploads/2012/06/Burson_Beauty-Composite-12-680x287.jpg",
+    "link": "https://clampart.com/2014/01/nancy-burson-2/#thumbnails"
+  },
+  {
+    "id": "computer-animated-hand",
+    "media_type": "película generada por computadora",
+    "description": "Una película generada por computadora de Edwin Catmull y Fred Parke que presenta un modelo tridimensional de una mano humana. La animación demuestra técnicas tempranas de modelado 3D, representación de superficies y movimiento, estableciendo métodos fundamentales para la computación gráfica.",
+    "tags": [
+      "película por computadora",
+      "3D"
+    ],
+    "title": "A Computer Animated Hand",
+    "artist": "Edwin Catmull and Fred Parke",
+    "year": "1972",
+    "location": "Utah, USA",
+    "image": "https://proyectoidis.org/wp-content/uploads/2013/07/Futureworld-02.jpg",
+    "link": "https://www.youtube.com/watch?v=naGntYNTSQM"
+  },
+  {
+    "id": "fragments",
+    "media_type": "video generado por computadora",
+    "description": "Una obra de video generativo en tiempo real producida por un sistema informático. La obra genera tanto imagen como tiempo simultáneamente mediante un conjunto de reglas lógicas declarativas que definen un proceso de búsqueda sobre un espacio de configuraciones de cuadrados blancos y negros.",
+    "tags": [
+      "imagen digital",
+      "video"
+    ],
+    "title": "Fragments",
+    "artist": "Ernest Edmonds",
+    "year": "1985",
+    "location": "London, UK",
+    "image": "https://th.bing.com/th/id/R.99eced3a79eae12171399bd3e49830f3?rik=W35u9v26m7dpsg&riu=http%3a%2f%2fgazell.io%2fcdn%2fshop%2ffiles%2fEE0001-3.jpg%3fv%3d1694685018&ehk=8sqL%2brNhEVN2hITUjHKgl0EhYHxCkMbfkRG4PNC7mqI%3d&risl=&pid=ImgRaw&r=0",
+    "link": "https://www.youtube.com/watch?v=Z2dBwOHMySM"
+  },
+  {
+    "id": "abstract-originals",
+    "media_type": "sistema generado por computadora",
+    "description": "Una serie de programas de computadora generativos que producen salidas visuales abstractas distribuidas a través de los primeros sistemas de microcomputadoras. La obra explora la generación algorítmica de forma mediante la producción de imágenes basadas en código.",
+    "tags": [
+      "imagen digital"
+    ],
+    "title": "Abstract Originals",
+    "artist": "Geoff Davis / Micro Arts Group",
+    "year": "1984",
+    "location": "United Kingdom",
+    "image": "https://microartsgroup.com/wp-content/uploads/2019/02/mao-4-png.png",
+    "link": "https://www.youtube.com/watch?v=r4Jvpgo3g4M&t=1s"
+  },
+  {
+    "id": "legible-city",
+    "media_type": "instalación interactiva",
+    "description": "Una instalación interactiva en la que los usuarios navegan por una ciudad virtual compuesta de estructuras tipográficas tridimensionales, formando un entorno espacial de texto legible.",
+    "tags": [
+      "realidad virtual",
+      "instalación",
+      "interactividad"
+    ],
+    "title": "The Legible City",
+    "artist": "Jeffrey Shaw",
+    "year": "1989",
+    "location": "Netherlands",
+    "image": "https://www.jeffreyshawcompendium.com/wp-content/uploads/2015/03/js44w1989LegibCit1_o018_r.jpg",
+    "link": "https://www.youtube.com/watch?v=7XFtMpjhniM"
+  },
+  {
+    "id": "videoplace",
+    "media_type": "instalación interactiva",
+    "description": "Un sistema interactividad en tiempo real donde el movimiento humano es capturado y traducido en un entorno responsivo generado por computadora, permitiendo la interacción directa entre cuerpo y computadora.",
+    "tags": [
+      "instalación",
+      "interactividad"
+    ],
+    "title": "Videoplace",
+    "artist": "Myron W. Krueger",
+    "year": "1985",
+    "location": "USA",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWh2eYKgtTDkWAV-H4MdXyp4rOwXjyjbnaQA&s",
+    "link": "https://www.youtube.com/watch?v=d4DUIeXSEpk"
+  },
+  {
+    "id": "lorna",
+    "media_type": "sistema narrativo interactividad",
+    "description": "Un sistema narrativo interactividad que explora la participación del usuario en estructuras de narración digital ramificada y entornos de hipermedia tempranos.",
+    "tags": [
+      "imagen digital",
+      "interactividad"
+    ],
+    "title": "Lorna",
+    "artist": "Brenda Laurel",
+    "year": "1984",
+    "location": "USA",
+    "image": "https://arthouse.thomafoundation.org/wp-content/uploads/sites/2/2020/05/Thoma-9226-edit-2-scaled.jpg",
+    "link": "https://www.youtube.com/watch?v=hiPMZOQnn9A"
+  },
+  {
+    "id": "aspen-movie-map",
+    "media_type": "sistema de medios interactividad",
+    "description": "Un sistema interactividad temprano que simulaba la navegación por un entorno urbano grabado mediante indexación espacial basada en video.",
+    "tags": [
+      "realidad virtual",
+      "interactividad"
+    ],
+    "title": "Aspen Movie Map",
+    "artist": "MIT Architecture Machine Group",
+    "year": "1980",
+    "location": "Massachusetts, USA",
+    "image": "https://proyectoidis.org/wp-content/uploads/2015/05/descarga2-1024x698.jpg",
+    "link": "https://www.youtube.com/watch?v=Hf6LkqgXPMU&t=41s"
+  },
+  {
+    "id": "divisibility-i",
+    "media_type": "obra de plóter generada por computadora",
+    "description": "Una visualización basada en plóter de estructuras geométricas de dimensiones superiores derivadas de transformaciones de hipercubos y reglas algorítmicas.",
+    "tags": [
+      "imagen digital"
+    ],
+    "title": "Divisibility I",
+    "artist": "Manfred Mohr",
+    "year": "1980",
+    "location": "Germany",
+    "image": "https://www.emohr.com/images/Canada-1980s.jpg",
+    "link": "https://www.emohr.com/two_1980.html"
+  },
+  {
+    "id": "good-morning-mr-orwell",
+    "media_type": "performance de transmisión vía satélite",
+    "description": "Una transmisión vía satélite en vivo que conecta performances en distintos continentes, utilizando las redes de comunicación global como medio artístico.",
+    "tags": [
+      "performance",
+      "red"
+    ],
+    "title": "Good Morning, Mr. Orwell",
+    "artist": "Nam June Paik",
+    "year": "1984",
+    "location": "USA / France",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Paik_-_Orwell_-_Sapho.jpg",
+    "link": "https://www.youtube.com/watch?v=0P1ekHDnRcM"
+  },
+  {
+    "id": "growth-i",
+    "media_type": "animación de computadora",
+    "description": "Una animación generada por computadora que simula procesos de crecimiento orgánico mediante la transformación algorítmica de estructuras geométricas.",
+    "tags": [
+      "simulación",
+      "3D",
+      "imagen digital"
+    ],
+    "title": "Growth I",
+    "artist": "Yoichiro Kawaguchi",
+    "year": "1983",
+    "location": "Japan",
+    "image": "https://history.siggraph.org/wp-content/uploads/2018/04/1983_Kawaguchi_Growth.jpg",
+    "link": "https://www.youtube.com/watch?v=CkTpFa4iR3U"
+  },
+  {
+    "id": "faces-1980s",
+    "media_type": "obra textil asistida por computadora",
+    "description": "Una serie de obras textiles tejidas producidas mediante diseño gráfico asistido por computadora y traducidas en estructuras de tejido. Las obras combinan la lógica visual de los píxeles con la producción textil, vinculando la estética de los primeros tiempos de la computación con procesos materiales basados en el oficio artesanal.",
+    "tags": [
+      "imagen digital"
+    ],
+    "title": "Faces of the 1980s",
+    "artist": "Charlotte Johannesson",
+    "year": "1980s",
+    "location": "Sweden",
+    "image": "https://static.croynielsen.com/site/assets/files/4943/croy_nielsen_charlotte_johannesson_boy_george-_english_singer-_1961_1983_kunstodkumentation_com.1200x0.1714738418.jpg",
+    "link": "https://es.artealdia.com/Noticias/CHARLOTTE-JOHANNESSON-ARTE-TEXTIL-Y-DIGITAL-FEMINISTA"
+  },
+  {
+    "id": "afternoon-a-story",
+    "media_type": "ficción hipertextual (literatura electrónica)",
+    "description": "Una obra fundacional de la literatura electrónica. Está considerada como una de las primeras obras mayores de ficción hipertextual, redefiniendo la narrativa como un sistema interactividad en lugar de una secuencia fija.",
+    "tags": [
+      "red",
+      "interactividad",
+      "imagen digital"
+    ],
+    "title": "Afternoon, a Story",
+    "artist": "Michael Joyce",
+    "year": "1989",
+    "location": "United States",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Afternoon%2C_a_story_cover.jpg",
+    "link": "https://en.wikipedia.org/wiki/Afternoon,_a_story"
+  },
+  {
+    "id": "voyager-george-lewis",
+    "media_type": "sistema musical interactividad",
+    "description": "Un sistema de música por computadora interactividad en el que el software responde en tiempo real a la improvisación humana, produciendo comportamiento musical autónomo. Voyager explora la improvisación de la máquina y la agencia musical no humana.",
+    "tags": [
+      "interactividad",
+      "IA",
+      "sonido"
+    ],
+    "title": "Voyager",
+    "artist": "George E. Lewis",
+    "year": "1987",
+    "location": "United States",
+    "image": "https://s3.us-east-1.amazonaws.com/bomb-images/_eightHundred/lewis_03_body.jpg",
+    "link": "https://www.youtube.com/watch?v=wGfeh7MNTpU"
+  },
+  {
+    "id": "3d-body-scans",
+    "media_type": "instalación de escaneo 3D",
+    "description": "Una serie de escaneos corporales completos traducidos en esculturas físicas mediante procesos industriales de escaneo e impresión 3D. La obra captura cuerpos humanos como datos digitales precisos, enfatizando cuestiones de representación, identidad y mediación tecnológica.",
+    "tags": [
+      "instalación",
+      "3D",
+      "imagen digital"
+    ],
+    "title": "3D Body Scans",
+    "artist": "Karin Sander",
+    "year": "1997",
+    "location": "Germany",
+    "image": "https://static-assets.artlogic.net/w_650,h_650,c_limit,f_auto,fl_lossy,q_auto:best/artlogicstorage/estherschipper/images/view/d68a95b583f910102b3a492c223dc1bc37991e99.jpg",
+    "link": "http://karinsander.de/en/work/3d-bodyscan"
+  },
+  {
+    "id": "a-volve",
+    "media_type": "instalación interactiva",
+    "description": "Una instalación interactiva en la que los espectadores generan criaturas artificiales a través de interfaces táctiles. Los organismos evolucionan y se comportan de forma autónoma, demostrando sistemas de vida artificial tempranos en el arte digital.",
+    "tags": [
+      "instalación",
+      "interactividad",
+      "IA"
+    ],
+    "title": "A-Volve",
+    "artist": "Christa Sommerer and Laurent Mignonneau",
+    "year": "1994",
+    "location": "Austria",
+    "image": "https://history.siggraph.org/wp-content/uploads/2017/04/1994_SommererAndMignonneau_AVolve.jpg",
+    "link": "https://www.youtube.com/watch?v=cZ3v1jcCXmk"
+  },
+  {
+    "id": "artist-rifles",
+    "media_type": "serie fotográfica digital",
+    "description": "Una serie de fotografías compuestas digitalmente en la que el artista aparece múltiples veces dentro de la misma imagen, actuando como una unidad militar completa. La obra examina la construcción de la identidad y la pérdida de individualidad dentro de las estructuras militares.",
+    "tags": [
+      "imagen digital"
+    ],
+    "title": "Artist Rifles",
+    "artist": "Paul M. Smith",
+    "year": "1997",
+    "location": "UK",
+    "image": "https://6d49d47bd32a151032ae-907965fc79c9900a93c12efeb23103bd.ssl.cf1.rackcdn.com/artworks/SMITHartistrifleseriesSMP0027.jpg",
+    "link": "https://www.youtube.com/watch?v=GesJwVvIC8M"
+  },
+  {
+    "id": "corridor",
+    "media_type": "video generado por computadora",
+    "description": "Una animación generada por computadora en bucle que representa el movimiento continuo de una cámara a través de un corredor vacío y aséptico. La obra simula el espacio arquitectónico mediante modelado 3D, enfatizando la repetición, la desorientación espacial y la artificialidad de los entornos construidos digitalmente.",
+    "tags": [
+      "simulación",
+      "video",
+      "3D"
+    ],
+    "title": "Corridor",
+    "artist": "Craig Kalpakjian",
+    "year": "1997",
+    "location": "USA",
+    "image": "https://d1hhug17qm51in.cloudfront.net/www-media/2022/05/02105725/2000.15_01_d03-Artsy-JPEG_4000-pixels-long.jpg",
+    "link": "https://www.sfmoma.org/artwork/2000.15/"
+  },
+  {
+    "id": "humphrey-i",
+    "media_type": "simulación interactiva",
+    "description": "Un sistema interactividad de simulación de vuelo desarrollado por el Futurelab de Ars Electronica que permite a los participantes navegar por un entorno virtual mediante control corporal. La obra explora la simulación en tiempo real, la percepción espacial y el diseño de interfaz humano-máquina dentro de entornos digitales inmersivos.",
+    "tags": [
+      "realidad virtual",
+      "interactividad",
+      "simulación"
+    ],
+    "title": "Humphrey I",
+    "artist": "Ars Electronica Futurelab",
+    "year": "1996",
+    "location": "Austria",
+    "image": "https://ars.electronica.art/futurelab/files/2021/03/FL_PIC_04560_AEC_AEC_2003_humphrey_Humphrey-I_2000x1000.jpg",
+    "link": "https://ars.electronica.art/futurelab/en/projects-humphrey/"
+  },
+  {
+    "id": "world-skin",
+    "media_type": "instalación de realidad virtual",
+    "description": "Un entorno virtual inmersivo en el que los participantes fotografían escenas de guerra, haciendo desaparecer las áreas capturadas. La obra critica el consumo mediático y la estética de la violencia.",
+    "tags": [
+      "realidad virtual",
+      "instalación",
+      "interactividad"
+    ],
+    "title": "World Skin",
+    "artist": "Maurice Benayoun",
+    "year": "1999",
+    "location": "France",
+    "image": "https://ars.electronica.art/futurelab/files/2021/03/FL_WorldSkin1999_AE_Banner_2000x1000.jpg",
+    "link": "https://ars.electronica.art/futurelab/en/projects-world-skin/"
+  },
+  {
+    "id": "text-rain",
+    "media_type": "instalación interactiva",
+    "description": "Una instalación donde letras que caen responden a los movimientos del cuerpo de los participantes. El sistema combina el rastreo de video en tiempo real con la interacción poética del texto.",
+    "tags": [
+      "instalación",
+      "interactividad"
+    ],
+    "title": "Text Rain",
+    "artist": "Camille Utterback and Romy Achituv",
+    "year": "1999",
+    "location": "USA",
+    "image": "https://camilleutterback.com/wp2022/wp-content/gallery/text-rain/textrain2.jpg",
+    "link": "https://camilleutterback.com/projects/text-rain/"
+  },
+  {
+    "id": "biogenesis",
+    "media_type": "imágenes generadas por computadora",
+    "description": "Una serie de formas digitales en evolución generadas mediante procesos algorítmicos inspirados en el crecimiento biológico. La obra visualiza la evolución artificial a través de complejas estructuras tridimensionales.",
+    "tags": [
+      "imagen digital",
+      "3D"
+    ],
+    "title": "Biogenesis",
+    "artist": "William Latham",
+    "year": "1993",
+    "location": "UK",
+    "image": "https://history.siggraph.org/wp-content/uploads/2019/02/1994_Latham_Biogenesis.jpg",
+    "link": "https://history.siggraph.org/artwork/william-latham-biogenesis/"
+  },
+  {
+    "id": "digital-scores",
+    "media_type": "serie de impresión digital",
+    "description": "Una serie que traduce datos digitales en composiciones visuales que recuerdan a la notación musical. La obra explora la relación entre código, imagen y sonido.",
+    "tags": [
+      "imagen digital"
+    ],
+    "title": "Digital Scores",
+    "artist": "Andreas Müller-Pohle",
+    "year": "1995",
+    "location": "Germany",
+    "image": "https://muellerpohle.net/wp-content/uploads/2014/08/DigitalScoresIII-6-465x465.jpg",
+    "link": "https://muellerpohle.net/projects/digital-scores/"
+  },
+  {
+    "id": "eye-drawings",
+    "media_type": "sistema de dibujo por seguimiento ocular",
+    "description": "Una serie de dibujos producidos registrando los movimientos oculares del artista mientras observa imágenes. La obra traduce el comportamiento de la mirada en trazos visuales, funcionando como un índice directo de la percepción en lugar de una imagen compuesta.",
+    "tags": [
+      "simulación"
+    ],
+    "title": "Eye Drawings",
+    "artist": "Jochem Hendricks",
+    "year": "1992",
+    "location": "USA",
+    "image": "https://jochem-hendricks.de/wp-content/uploads/2020/05/EYE-DRAWING-01.jpg",
+    "link": "http://www.medienkunstnetz.de/works/augenzeichnungen/images/1/"
+  },
+  {
+    "id": "ajna",
+    "media_type": "escultura digital",
+    "description": "Una serie de formas anatómicas híbridas generadas mediante software de modelado 3D. La obra explora la corporización artificial y la biología especulativa.",
+    "tags": [
+      "imagen digital",
+      "3D"
+    ],
+    "title": "Ajna",
+    "artist": "Michael Rees",
+    "year": "1996",
+    "location": "USA",
+    "image": "https://images.squarespace-cdn.com/content/v1/51197458e4b0f1a7921105ed/1360642541842-ZB0KBNEDX3DD5ERXUYGM/Ajna111render.jpg?format=750w",
+    "link": "https://michaelrees.org/ajnas"
+  },
+  {
+    "id": "displaced-emperors",
+    "media_type": "instalación interactiva",
+    "description": "Una instalación que usa tecnologías de proyección y rastreo para fusionar retratos históricos con los rostros de los espectadores. La obra aborda la identidad y la historia colonial.",
+    "tags": [
+      "instalación",
+      "interactividad"
+    ],
+    "title": "Displaced Emperors",
+    "artist": "Rafael Lozano-Hemmer",
+    "year": "1997",
+    "location": "Mexico",
+    "image": "https://www.lozano-hemmer.com/image_sets/displaced_emperors/linz_1997/displacedemperors_linz_03.jpg",
+    "link": "https://www.lozano-hemmer.com/displaced_emperors.php"
+  },
+  {
+    "id": "world-generator",
+    "media_type": "sistema interactividad",
+    "description": "Un sistema generativo que recombina elementos de medios en entornos audiovisuales en evolución. La obra explora la estética de las bases de datos y la lógica recombinatoria.",
+    "tags": [
+      "imagen digital",
+      "interactividad"
+    ],
+    "title": "World Generator",
+    "artist": "Bill Seaman",
+    "year": "1997",
+    "location": "USA",
+    "image": "https://billseaman.com/images/portfolio/menu%20system.jpeg",
+    "link": "https://billseaman.com/works/1997_world_generator.html"
+  },
+  {
+    "id": "hallucination",
+    "media_type": "instalación electrónica",
+    "description": "Una instalación que utiliza sistemas LED de baja resolución para crear imágenes perceptuales cambiantes. La obra investiga la visión, la memoria y la abstracción.",
+    "tags": [
+      "simulación",
+      "instalación"
+    ],
+    "title": "Hallucination",
+    "artist": "Jim Campbell",
+    "year": "1998",
+    "location": "USA",
+    "image": "https://cdn.prod.website-files.com/63495c99667b34725c45e93f/635e12a37080450cb14b250e_I10-Flip-re-scaled.jpeg",
+    "link": "https://www.jimcampbell.tv/portfolio/hallucination"
+  },
+  {
+    "id": "eve",
+    "media_type": "instalación de realidad virtual",
+    "description": "Un entorno virtual navegable experimentado a través de una interfaz de proyección giratoria. La obra explora la interacción espacial inmersiva.",
+    "tags": [
+      "realidad virtual",
+      "instalación"
+    ],
+    "title": "Extended Virtual Environment (EVE)",
+    "artist": "Jeffrey Shaw",
+    "year": "1993",
+    "location": "Netherlands",
+    "image": "https://www.jeffreyshawcompendium.com/wp-content/uploads/2015/03/js44w1993EVExxxxx1_o010_f.jpg",
+    "link": "https://www.jeffreyshawcompendium.com/platform/eve/"
+  },
+  {
+    "id": "piano-as-image",
+    "media_type": "sistema audiovisual interactividad",
+    "description": "Un sistema interactividad en el que las imágenes son traducidas en sonido mediante un proceso de escaneo. Los participantes dibujan o manipulan patrones visuales que son leídos línea por línea y convertidos en secuencias musicales, vinculando directamente la estructura de la imagen con la salida sonora.",
+    "tags": [
+      "sonido",
+      "interactividad"
+    ],
+    "title": "Piano as Image Media",
+    "artist": "Toshio Iwai",
+    "year": "1995",
+    "location": "Karlsruhe, Germany",
+    "image": "https://deodesign.wordpress.com/wp-content/uploads/2007/10/119.jpg",
+    "link": "https://video.wrocenter.pl/en/wideo/dca_europeana/piano_image/"
+  },
+  {
+    "id": "geninfo",
+    "media_type": "instalación de bioarte",
+    "description": "Una obra transgénica que traduce una frase bíblica en código de ADN, insertado en bacterias vivas. La obra fusiona lenguaje, genética e interacción en red.",
+    "tags": [
+      "red",
+      "instalación"
+    ],
+    "title": "Genesis",
+    "artist": "Eduardo Kac",
+    "year": "1999",
+    "location": "Brazil",
+    "image": "https://www.ekac.org/genphoto1.jpeg",
+    "link": "https://www.ekac.org/geninfo.html"
+  },
+  {
+    "id": "rara-avis",
+    "media_type": "instalación de telepresencia",
+    "description": "Una instalación que permite a los participantes remotos habitar la perspectiva de un pájaro robótico a través de sistemas de visión en red.",
+    "tags": [
+      "red",
+      "instalación",
+      "robótica"
+    ],
+    "title": "Rara Avis",
+    "artist": "Eduardo Kac",
+    "year": "1996",
+    "location": "Brazil",
+    "image": "https://www.ekac.org/rara.avis.full.body.jpg",
+    "link": "https://www.ekac.org/raraavis-info.html"
+  },
+  {
+    "id": "intruder",
+    "media_type": "obra basada en web",
+    "description": "Una narrativa web interactiva que adapta el cuento de Borges a través de una secuencia de minijuegos en el navegador.",
+    "tags": [
+      "red",
+      "interactividad",
+      "imagen digital"
+    ],
+    "title": "The Intruder",
+    "artist": "Natalie Bookchin",
+    "year": "1999",
+    "location": "USA",
+    "image": "https://bookchin.net/wp-content/uploads/2015/09/intruder-2ndtrip1.jpg",
+    "link": "https://bookchin.net/projects/the-intruder/"
+  },
+  {
+    "id": "brandon",
+    "media_type": "instalación basada en web",
+    "description": "Un proyecto web multiplataforma que aborda la identidad de género y las comunidades en línea a través de la narración distribuida.",
+    "tags": [
+      "red",
+      "instalación"
+    ],
+    "title": "Brandon",
+    "artist": "Shu Lea Cheang",
+    "year": "1998",
+    "location": "USA",
+    "image": "https://www.guggenheim.org/wp-content/uploads/1998/01/2005.44_web-1.jpg",
+    "link": "https://www.guggenheim.org/artwork/15337"
+  },
+  {
+    "id": "deep-ascii",
+    "media_type": "animación ASCII",
+    "description": "Una traducción de la famosa película pornográfica Garganta Profunda a caracteres ASCII, recodificando el lenguaje cinematográfico mediante computación textual.",
+    "tags": [
+      "imagen digital"
+    ],
+    "title": "Deep ASCII",
+    "artist": "Vuk Ćosić",
+    "year": "1998",
+    "location": "Slovenia",
+    "image": "https://www.e-arhiv.org/diva/cache/540_w22_08VukCosicDeepASCIIb.jpg",
+    "link": "https://www.e-arhiv.org/diva/index.php?id=22&opt=work&lang_pref=en"
+  },
+  {
+    "id": "zapatista-tactical-floodnet",
+    "media_type": "intervención en red",
+    "description": "Un proyecto colectivo que utiliza herramientas en línea para la acción política, incluyendo sentadas virtuales y tácticas de interrupción de redes.",
+    "tags": [
+      "red"
+    ],
+    "title": "Zapatista Tactical Floodnet",
+    "artist": "Electronic Disturbance Theater",
+    "year": "1998",
+    "location": "USA",
+    "image": "https://arte-util.org/cms/wp-content/uploads/2013/11/428-Floodnet-01-1415x1060.jpg",
+    "link": "https://arte-util.org/projects/zapatista-tactical-floodnet/"
+  },
+  {
+    "id": "telegarden",
+    "media_type": "instalación de telepresencia",
+    "description": "Un jardín robótico controlado en línea donde los usuarios siembran y riegan plantas reales de forma remota a través de internet.",
+    "tags": [
+      "red",
+      "instalación",
+      "robótica"
+    ],
+    "title": "Telegarden",
+    "artist": "Ken Goldberg",
+    "year": "1995",
+    "location": "USA",
+    "image": "https://goldberg.berkeley.edu/garden/telegarden-8x6-72dpi.jpg",
+    "link": "https://goldberg.berkeley.edu/garden/Ars/"
+  },
+  {
+    "id": "jodi",
+    "media_type": "obra basada en web",
+    "description": "Una serie de sitios web disruptivos que exponen y subvierten las estructuras subyacentes de internet.",
+    "tags": [
+      "red"
+    ],
+    "title": "JODI",
+    "artist": "JODI",
+    "year": "1995",
+    "location": "Netherlands",
+    "image": "https://proyectoidis.org/wp-content/uploads/2019/01/Jodi-02.jpg",
+    "link": "https://proyectoidis.org/jodi/"
+  },
+  {
+    "id": "vectorial-elevation",
+    "media_type": "instalación interactiva",
+    "description": "Una instalación a gran escala donde los participantes controlan reflectores a través de internet, generando composiciones colectivas de luz en el espacio público.",
+    "tags": [
+      "red",
+      "instalación",
+      "interactividad"
+    ],
+    "title": "Vectorial Elevation",
+    "artist": "Rafael Lozano-Hemmer",
+    "year": "1999",
+    "location": "Mexico",
+    "image": "https://www.lozano-hemmer.com/image_sets/vectorial_elevation/mexico_2000/vectorialelevation_mexico_03.jpg",
+    "link": "https://www.lozano-hemmer.com/vectorial_elevation.php"
+  },
+  {
+    "id": "shredder-1",
+    "media_type": "obra basada en web",
+    "description": "Una obra de arte basada en el navegador que deconstruye sitios web en fragmentos visuales abstractos, revelando las estructuras de código subyacentes.",
+    "tags": [
+      "red",
+      "imagen digital"
+    ],
+    "title": "Shredder 1.0",
+    "artist": "Mark Napier",
+    "year": "1998",
+    "location": "USA",
+    "image": "https://www.marknapier.com/wp-content/uploads/2018/01/shredder_whitney2.jpg",
+    "link": "https://www.marknapier.com/portfolio/shredder/"
+  },
+  {
+    "id": "prepared-playstation",
+    "media_type": "instalación de consola de videojuegos modificada",
+    "description": "Una consola PlayStation modificada utilizada como instrumento generador de sonido, transformando el hardware de juego en un sistema audiovisual performativo.",
+    "tags": [
+      "instalación",
+      "interactividad",
+      "sonido"
+    ],
+    "title": "Prepared PlayStation",
+    "artist": "RSG",
+    "year": "2005",
+    "location": "Germany",
+    "image": "https://r-s-g.org/PP/THUG2/RSG-THUG2-3.jpg",
+    "link": "https://r-s-g.org/PP/"
+  },
+  {
+    "id": "earth",
+    "media_type": "simulación interactiva",
+    "description": "Un sistema único de visualización geoespacial que recopila datos en tiempo real de internet y los posiciona con precisión sobre un modelo tridimensional de la Tierra.",
+    "tags": [
+      "interactividad",
+      "simulación",
+      "3D"
+    ],
+    "title": "EARTH",
+    "artist": "John Klima",
+    "year": "1999",
+    "location": "USA",
+    "image": "https://www.fondation-langlois.org/media/CRD/public/d00017592.jpg",
+    "link": "http://www.medienkunstnetz.de/works/earth/images/3/"
+  },
+  {
+    "id": "after-sherrie-levine",
+    "media_type": "obra basada en web",
+    "description": "Un proyecto en red que republica obras canónicas de apropiación artística, cuestionando la autoría y la reproducibilidad en la cultura digital.",
+    "tags": [
+      "red",
+      "interactividad"
+    ],
+    "title": "After Sherrie Levine / After Walker Evans",
+    "artist": "Michael Mandiberg",
+    "year": "2001",
+    "location": "USA",
+    "image": "https://www.aftersherrielevine.com/assets/2m.jpg",
+    "link": "https://www.aftersherrielevine.com/"
+  },
+  {
+    "id": "rebirth-of-a-nation",
+    "media_type": "performance de remezcla fílmica",
+    "description": "Una remezcla crítica de la película de D.W. Griffith, que combina sonido e imagen en movimiento para desafiar las narrativas históricas.",
+    "tags": [
+      "performance",
+      "sonido",
+      "video"
+    ],
+    "title": "Rebirth of a Nation",
+    "artist": "DJ Spooky",
+    "year": "2004",
+    "location": "USA",
+    "image": "https://silentfilm.org/wp-content/uploads/2022/03/Rebirth-Michael-Raz-Russo.2400.jpg",
+    "link": "https://silentfilm.org/event/rebirth-of-a-nation/"
+  },
+  {
+    "id": "borderhack-manifesto",
+    "media_type": "intervención en red",
+    "description": "Un manifiesto y proyecto activista que utiliza redes digitales para desafiar los sistemas de control fronterizo y vigilancia.",
+    "tags": [
+      "performance",
+      "red"
+    ],
+    "title": "Borderhack Manifesto",
+    "artist": "Fran Ilich & Luis Humberto Rosales",
+    "year": "2000",
+    "location": "Mexico / USA",
+    "image": "data:image/jpeg;base64,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",
+    "link": "http://subsol.c3.hu/subsol_2/contributors/ilichtext.html"
+  },
+  {
+    "id": "access",
+    "media_type": "instalación interactiva",
+    "description": "Una instalación basada en vigilancia que rastrea individuos y proyecta medios dirigidos en el espacio público.",
+    "tags": [
+      "instalación",
+      "interactividad"
+    ],
+    "title": "Access",
+    "artist": "Marie Sester",
+    "year": "2003",
+    "location": "USA",
+    "image": "https://proyectoidis.org/wp-content/uploads/2018/02/Sester-01.jpg",
+    "link": "https://proyectoidis.org/access/"
+  },
+  {
+    "id": "life-sharing",
+    "media_type": "performance en red",
+    "description": "Los artistas compartieron su computadora personal en línea, permitiendo el acceso público a archivos privados como gesto artístico.",
+    "tags": [
+      "red",
+      "interactividad",
+      "performance"
+    ],
+    "title": "Life Sharing",
+    "artist": "Eva and Franco Mattes",
+    "year": "2000",
+    "location": "Italy",
+    "image": "https://0100101110101101.org/blog/wp-content/uploads/2014/02/life-sharing-computer-700x525.jpg",
+    "link": "https://anthology.rhizome.org/life-sharing"
+  },
+  {
+    "id": "super-mario-clouds",
+    "media_type": "videoinstalación",
+    "description": "Un videojuego de Nintendo modificado que muestra únicamente nubes a la deriva, reduciendo el juego a un movimiento visual mínimo.",
+    "tags": [
+      "simulación",
+      "video"
+    ],
+    "title": "Super Mario Clouds",
+    "artist": "Cory Arcangel",
+    "year": "2002",
+    "location": "USA",
+    "image": "https://whitneymedia.org/assets/artwork/20588/WMAA_PROGRAMMED_32_PS-01_SM.jpg",
+    "link": "https://whitney.org/collection/works/20588"
+  },
+  {
+    "id": "pedestrian",
+    "media_type": "videoinstalación interactiva",
+    "description": "Un sistema donde el movimiento humano grabado es remezclado algorítmicamente en secuencias visuales responsivas.",
+    "tags": [
+      "video",
+      "interactividad"
+    ],
+    "title": "Pedestrian",
+    "artist": "Eshkar & Kaiser",
+    "year": "2002",
+    "location": "USA",
+    "image": "https://openendedgroup.com/images/ped_cunn.jpg",
+    "link": "https://openendedgroup.com/artworks/ped.html"
+  },
+  {
+    "id": "glasbead",
+    "media_type": "visualización en red",
+    "description": "Una interfaz musical colaborativa persistente multiusuario que permite a los participantes manipular e intercambiar archivos de muestras de sonido y crear una infinidad de paisajes sonoros y secuencias musicales rítmicas.",
+    "tags": [
+      "red",
+      "interactividad"
+    ],
+    "title": "Glasbead",
+    "artist": "John Klima",
+    "year": "2000",
+    "location": "USA",
+    "image": "https://www.cityarts.com/glasbeadweb/gbicc.jpg",
+    "link": "https://www.cityarts.com/langlois/glasbead.html"
+  },
+  {
+    "id": "dialtones",
+    "media_type": "performance participativo",
+    "description": "Una orquesta compuesta por los teléfonos móviles del público, creando composiciones sonoras coordinadas.",
+    "tags": [
+      "interactividad",
+      "sonido",
+      "performance"
+    ],
+    "title": "Dialtones (A Telesymphony)",
+    "artist": "Golan Levin",
+    "year": "2001",
+    "location": "Linz, Austria",
+    "image": "https://www.flong.com/archive/storage/images/projects/telesymphony.jpg",
+    "link": "https://www.flong.com/archive/projects/telesymphony/index.html"
+  },
+  {
+    "id": "1-year-performance-video",
+    "media_type": "video performance",
+    "description": "Un video de larga duración que documenta un performance temporal extendido mediante grabación digital. El video de un año continúa la serie de actualizaciones de MTAA que evocan el arte de performance de los años 60 y 70, en parte reemplazando los procesos humanos con procesos computacionales.",
+    "tags": [
+      "performance",
+      "video"
+    ],
+    "title": "1 Year Performance Video",
+    "artist": "Tobias C. van Veen",
+    "year": "2004",
+    "location": "Canada",
+    "image": "https://lh3.googleusercontent.com/proxy/zRVfZ1oUlEqe2mdfnxGdPrQQU3ZeUmmtUta44LFB7dvxjN01wun_IkCExLt5qi6IR8jQr_MBpO8GEsh0kKp9VBxxq_ilYUA",
+    "link": "http://meiac.es/turbulence/archive/Works/1year/"
+  },
+  {
+    "id": "free-radio-linux",
+    "media_type": "sistema de radio en red",
+    "description": "Un sistema de transmisión de radio descentralizado que utiliza software libre e infraestructura de red.",
+    "tags": [
+      "sonido",
+      "red"
+    ],
+    "title": "Free Radio Linux",
+    "artist": "Radioqualia",
+    "year": "2002",
+    "location": "Australia / UK",
+    "image": "https://www.darioquaranta.com/wp-content/uploads/2018/09/free-radio-linux-net-art.jpg",
+    "link": "https://noemalab.eu/memo/free-radio-linux/"
+  },
+  {
+    "id": "unfolding-object",
+    "media_type": "arte de software",
+    "description": "Una obra de software generativo en la que una forma geométrica en continua evolución se despliega algorítmicamente en tiempo real, enfatizando el proceso, la variabilidad y la estética computacional.",
+    "tags": [
+      "simulación",
+      "software",
+      "imagen digital"
+    ],
+    "title": "Unfolding Object",
+    "artist": "John F. Simon Jr.",
+    "year": "2002",
+    "location": "USA",
+    "image": "https://www.guggenheim.org/wp-content/uploads/2002/01/2002.16_ph_web-1.jpg",
+    "link": "https://www.guggenheim.org/video/john-f-simon-jr-interacts-with-unfolding-object"
+  },
+  {
+    "id": "autopoiesis",
+    "media_type": "instalación robótica",
+    "description": "Una red de esculturas robóticas que interactúan entre sí y con los espectadores a través de sensores.",
+    "tags": [
+      "instalación",
+      "interactividad",
+      "robótica"
+    ],
+    "title": "Autopoiesis",
+    "artist": "Ken Rinaldo",
+    "year": "2000",
+    "location": "USA",
+    "image": "https://www.kenrinaldo.com/wp-content/uploads/2015/06/autopo_interaction_shot-.jpg",
+    "link": "https://www.kenrinaldo.com/portfolio/autopoiesis/"
+  },
+  {
+    "id": "textarc",
+    "media_type": "visualización de datos",
+    "description": "Una obra que transforma procesos complejos y frecuentemente invisibles en formas visuales e interactivas claras. Partiendo de conocimiento especializado, crea \"interfaces ilustrativas\" intuitivas donde el movimiento, el color y la forma actúan como filtros mínimos para revelar los fenómenos subyacentes.",
+    "tags": [
+      "interactividad"
+    ],
+    "title": "TextArc",
+    "artist": "W. Bradford Paley",
+    "year": "2002",
+    "location": "USA",
+    "image": "https://didi.co/wp-content/uploads/2020/03/TextArc.png",
+    "link": "https://history.siggraph.org/artwork/w-bradford-paley-textarc/"
+  },
+  {
+    "id": "pockets-full-of-memories",
+    "media_type": "instalación interactiva",
+    "description": "Los participantes escanean objetos personales que son categorizados y visualizados en un sistema de base de datos interactividad.",
+    "tags": [
+      "instalación",
+      "interactividad"
+    ],
+    "title": "Pocket Full of Memories",
+    "artist": "George Legrady",
+    "year": "2001",
+    "location": "USA",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVDed7--9PSXf52dOd5cuWh1h6CP4JLtjpw&s",
+    "link": "https://vimeo.com/44602943"
+  },
+  {
+    "id": "conversation-map",
+    "media_type": "visualización en red",
+    "description": "Un sistema que mapea discusiones en línea en estructuras conversacionales visuales.",
+    "tags": [
+      "red",
+      "interactividad"
+    ],
+    "title": "Conversation Map",
+    "artist": "Warren Sack",
+    "year": "2000",
+    "location": "USA",
+    "image": "https://web.media.mit.edu/~lieber/IUI/Sack/cm0.gif",
+    "link": "https://web.media.mit.edu/~lieber/IUI/Sack/Sack.html"
+  },
+  {
+    "id": "many-eyes",
+    "media_type": "plataforma web",
+    "description": "Un sitio web público donde los usuarios pueden cargar datos, crear visualizaciones interactivas y mantener discusiones. El objetivo del sitio es apoyar la colaboración en torno a visualizaciones a gran escala.",
+    "tags": [
+      "red",
+      "interactividad"
+    ],
+    "title": "Many Eyes",
+    "artist": "Fernanda Viégas & Martin Wattenberg",
+    "year": "2007",
+    "location": "USA",
+    "image": "https://www.researchgate.net/profile/Samuel-Huron/publication/290461655/figure/fig103/AS:614365187289106@1523487483450/Many-Eyes-screenshot.png",
+    "link": "https://faculty.cc.gatech.edu/~stasko/4460/Reading/viegas-tvcg07.pdf"
+  },
+  {
+    "id": "q4u",
+    "media_type": "instalación de juego interactividad",
+    "description": "Un videojuego de disparos en primera persona modificado, utilizado como medio artístico.",
+    "tags": [
+      "interactividad",
+      "simulación",
+      "3D"
+    ],
+    "title": "Q4U",
+    "artist": "Feng Mengbo",
+    "year": "2002",
+    "location": "China",
+    "image": "https://photography-now.com/images/Hauptbilder/gross/T03262.jpg",
+    "link": "http://universes-in-universe.de/car/documenta/11/brau/s-feng.htm"
+  },
+  {
+    "id": "they-rule",
+    "media_type": "visualización interactiva",
+    "description": "Un mapa basado en web de las relaciones de poder corporativo.",
+    "tags": [
+      "red",
+      "interactividad"
+    ],
+    "title": "They Rule",
+    "artist": "Josh On",
+    "year": "2001",
+    "location": "USA",
+    "image": "https://arteedadsilicio.com/wp-content/uploads/2016/02/2001-josh-on-they-rule.jpg",
+    "link": "https://www.theyrule.net/"
+  },
+  {
+    "id": "sky-ear",
+    "media_type": "instalación interactiva",
+    "description": "Una estructura flotante que responde a las señales electromagnéticas del entorno.",
+    "tags": [
+      "instalación",
+      "interactividad"
+    ],
+    "title": "Sky Ear",
+    "artist": "Usman Haque",
+    "year": "2004",
+    "location": "UK",
+    "image": "https://haque.co.uk/work/sky-ear/img/nmm/dr/0409SK75.jpg",
+    "link": "https://haque.co.uk/work/sky-ear/"
+  },
+  {
+    "id": "dead-drops",
+    "media_type": "intervención en red",
+    "description": "Intercambio de archivos entre pares sin conexión a internet a través de nodos USB físicos insertados en el espacio urbano.",
+    "tags": [
+      "red"
+    ],
+    "title": "Dead Drops",
+    "artist": "Aram Bartholl",
+    "year": "2010",
+    "location": "Germany",
+    "image": "https://arambartholl.com/wp-content/uploads/2018/03/aram_bartholl_dead_drops_2010_01-e1526384395486-1800x1200.jpg",
+    "link": "https://arambartholl.com/dead-drops/"
+  },
+  {
+    "id": "flying-spy-potatoes",
+    "media_type": "instalación de vigilancia",
+    "description": "Un proyecto que explora la vigilancia a través de dispositivos de detección móviles.",
+    "tags": [
+      "instalación",
+      "interactividad"
+    ],
+    "title": "Flying Spy Potatoes",
+    "artist": "Jenny Marketou",
+    "year": "2003",
+    "location": "USA",
+    "image": "https://www.thing.net/~jmarketo/installation_2005/t_FSPinstallationview2.jpg",
+    "link": "https://www.thing.net/~jmarketo/FlyingSpyPotatoes2005.shtml"
+  },
+  {
+    "id": "life-users-manual",
+    "media_type": "performance en red",
+    "description": "Un proyecto que captura y reinterpreta señales de video inalámbrico de entornos urbanos.",
+    "tags": [
+      "performance",
+      "red",
+      "video"
+    ],
+    "title": "Life: A User’s Manual",
+    "artist": "Michelle Teran",
+    "year": "2003",
+    "location": "Canada",
+    "image": "https://archive.transmediale.de/sites/default/files/public/styles/6col/public/node/artwork/field_artwork_images/21050/teran_image_03jpg.jpg",
+    "link": "https://archive.transmediale.de/content/life-a-users-manual"
+  },
+  {
+    "id": "public-broadcast-cart",
+    "media_type": "sistema de medios móvil",
+    "description": "Un carrito portátil que proporciona acceso público a redes de medios inalámbricos.",
+    "tags": [
+      "red",
+      "interactividad"
+    ],
+    "title": "Public Broadcast Cart",
+    "artist": "Ricardo Miranda Zúñiga",
+    "year": "2003",
+    "location": "USA",
+    "image": "https://ambriente.com/wifi/images/speaker1.jpg",
+    "link": "https://ambriente.com/wifi/index.php"
+  },
+  {
+    "id": "sinister-social-network",
+    "media_type": "sistema interactividad",
+    "description": "Un sistema que revela estructuras ocultas de las interacciones sociales.",
+    "tags": [
+      "interactividad"
+    ],
+    "title": "Sinister Social Network",
+    "artist": "Annina Rüst",
+    "year": "2006",
+    "location": "Germany",
+    "image": "https://anninaruest.com/a/sinister-network/images/1.jpg",
+    "link": "https://anninaruest.com/a/sinister-network/index.html"
+  },
+  {
+    "id": "second-life-dumpster",
+    "media_type": "intervención virtual",
+    "description": "Un proyecto que explora el desperdicio y el valor dentro de entornos virtuales.",
+    "tags": [
+      "realidad virtual",
+      "red"
+    ],
+    "title": "Second Life Dumpster",
+    "artist": "Eteam",
+    "year": "2007",
+    "location": "USA",
+    "image": "https://www.meineigenheim.org/portfolio/wp-content/uploads/2019/09/dump_sketch1-300x184.jpg",
+    "link": "https://www.meineigenheim.org/portfolio/?p=106"
+  },
+  {
+    "id": "gfp-bunny",
+    "media_type": "bioarte",
+    "description": "Un conejo modificado genéticamente que expresa proteína fluorescente, fusionando biología y arte.",
+    "tags": [
+      "instalación"
+    ],
+    "title": "GFP Bunny",
+    "artist": "Eduardo Kac",
+    "year": "2000",
+    "location": "France",
+    "image": "https://www.ekac.org/albagreen-cutout.png",
+    "link": "https://www.ekac.org/gfpbunny.html"
+  },
+  {
+    "id": "computer-drawings",
+    "media_type": "serie de dibujos digitales",
+    "description": "Una serie de dibujos producidos digitalmente con software de computadora como Photoshop, que explora el paisaje, el retrato y el color mediante la creación de imágenes en pantalla.",
+    "tags": [
+      "imagen digital"
+    ],
+    "title": "Computer Drawings",
+    "artist": "David Hockney",
+    "year": "2008",
+    "location": "United Kingdom",
+    "image": "https://static-assets.artlogic.net/w_850,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1680/usr/images/feature_panels/image/items/3a/3af863515feb4eb39e8d19470a038032/dh60-david-hockney-a-bigger-green-valley-.png",
+    "link": "https://geistmc.com/our-artists/david-hockney/computer-drawings/"
+  },
+  {
+    "id": "you-fade-to-light",
+    "media_type": "instalación de luz interactiva",
+    "description": "Una instalación que utiliza rastreo de movimiento y cuadrículas de luz que reflejan y responden a la presencia del espectador, creando una interacción dinámica entre el cuerpo y la imagen luminosa.",
+    "tags": [
+      "instalación",
+      "interactividad"
+    ],
+    "title": "You Fade to Light",
+    "artist": "Random International",
+    "year": "2009",
+    "location": "United Kingdom",
+    "image": "https://images.squarespace-cdn.com/content/v1/663ca532b3e3797d82159fe2/1d4544ce-6f17-4f58-b05f-4c35e64deac1/YOU+FADE+TO+LIGHT%2C+2009++.jpeg?format=1500w",
+    "link": "https://www.random-international.com/you-fade-to-light"
+  }
+]
