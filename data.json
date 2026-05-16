@@ -1509,5 +1509,360 @@
     "location": "United Kingdom",
     "image": "https://images.squarespace-cdn.com/content/v1/663ca532b3e3797d82159fe2/1d4544ce-6f17-4f58-b05f-4c35e64deac1/YOU+FADE+TO+LIGHT%2C+2009++.jpeg?format=1500w",
     "link": "https://www.random-international.com/you-fade-to-light"
+  },
+  {
+    "id": "sikka-ingentium",
+    "title": "Sikka Ingentium",
+    "artist": "Daniel Canogar",
+    "year": "2017",
+    "location": "Pamplona, Spain",
+    "image": "https://www.danielcanogar.com/contenido/proyectos/canogar-ManuelCastells.JPG",
+    "link": "https://www.danielcanogar.com/es/obra/sikka-ingentium",
+    "media_type": "videoinstalación",
+    "description": "Una videoinstalación escultórica compuesta por 2,400 DVDs reciclados sobre los cuales se proyecta su propio contenido. La obra fusiona el cine con su medio físico, acompañada de una banda sonora construida a partir del audio superpuesto de todos los segmentos reproduciéndose simultáneamente.",
+    "tags": [
+      "video",
+      "instalación"
+    ]
+  },
+  {
+    "id": "the-sheep-market",
+    "title": "The Sheep Market",
+    "artist": "Aaron Koblin",
+    "year": "2006",
+    "location": "USA",
+    "image": "https://www.aaronkoblin.com/work/thumbImages/sheep.jpg",
+    "link": "https://www.youtube.com/watch?v=3Mmb5aSscck",
+    "media_type": "net art / visualización de datos",
+    "description": "Un proyecto de arte de datos en el que 10,000 ovejas fueron dibujadas por trabajadores anónimos contratados a través de Amazon Mechanical Turk por $0.02 cada una. Las imágenes resultantes se compilaron en una visualización a gran escala que plantea preguntas sobre el trabajo y la autoría colectiva en la era de la información.",
+    "tags": [
+      "red",
+      "imagen digital"
+    ]
+  },
+  {
+    "id": "everydays-the-first-5000-days",
+    "title": "Everydays: The First 5000 Days",
+    "artist": "Beeple (Mike Winkelmann)",
+    "year": "2021",
+    "location": "South Carolina, USA",
+    "image": "https://static.wixstatic.com/media/a64726_8b0e3cb2371c4d58ab569c6a5d521719~mv2.jpg",
+    "link": "https://www.beeple-crap.com/viewing",
+    "media_type": "NFT / imagen digital",
+    "description": "Un compuesto de 5,000 imágenes digitales realizadas una por día desde 2007 hasta 2021. Vendida como NFT en Christie's, se convirtió en una de las obras de arte digitales más caras jamás subastadas.",
+    "tags": [
+      "imagen digital"
+    ]
+  },
+  {
+    "id": "77-million-paintings",
+    "title": "77 Million Paintings",
+    "artist": "Brian Eno",
+    "year": "2006",
+    "location": "Worldwide",
+    "image": "https://proyectoidis.org/wp-content/uploads/2006/05/77millionpaint-768x461.jpg",
+    "link": "https://www.instituteforpublicart.org/case-studies/77-million-paintings/",
+    "media_type": "instalación de software generativo",
+    "description": "Una instalación de software generativo que combina aleatoriamente alrededor de 300 diapositivas digitales hechas a mano con música ambiental en capas, produciendo una secuencia efectivamente infinita de pinturas audiovisuales únicas. Ningún espectador ve la misma obra dos veces.",
+    "tags": [
+      "software",
+      "instalación",
+      "sonido"
+    ]
+  },
+  {
+    "id": "i-shot-andy-warhol",
+    "title": "I Shot Andy Warhol",
+    "artist": "Cory Arcangel",
+    "year": "2002",
+    "location": "New York, USA",
+    "image": "https://coryarcangel.com/assets/imgs/i-shot-andy-2002-002-screen-shot-5-database-ih.jpg",
+    "link": "https://coryarcangel.com/works/2002-002-i-shot-andy-warhol",
+    "media_type": "cartucho de videojuego modificado",
+    "description": "Un hack de ROM del juego de NES Hogan's Alley en el que los objetivos gánster son reemplazados con Andy Warhol, y los inocentes con el Papa, Flavor Flav y el Coronel Sanders. Tanto los gráficos como la lógica del programa están modificados directamente en el binario compilado.",
+    "tags": [
+      "software",
+      "interactivo",
+      "videojuego"
+    ]
+  },
+  {
+    "id": "unsupervised-machine-hallucinations-moma",
+    "title": "Unsupervised — Machine Hallucinations — MoMA",
+    "artist": "Refik Anadol",
+    "year": "2022",
+    "location": "New York, USA",
+    "image": "https://refikanadol.com/wp-content/uploads/2023/03/CB.jpg",
+    "link": "https://refikanadol.com/works/unsupervised/",
+    "media_type": "instalación generativa con IA",
+    "description": "Una instalación generativa en tiempo real entrenada con 138,151 imágenes de la colección digitalizada del MoMA usando StyleGAN2 ADA. La IA navega continuamente un espacio latente de 1024 dimensiones, produciendo un flujo interminable de combinaciones de imágenes alucinatorias.",
+    "tags": [
+      "IA",
+      "instalación",
+      "software"
+    ]
+  },
+  {
+    "id": "uncensored-library",
+    "title": "The Uncensored Library",
+    "artist": "Reporters Without Borders (RSF) & BlockWorks",
+    "year": "2020",
+    "location": "Global (Minecraft server)",
+    "image": "https://www.uncensoredlibrary.com/version/1773306198268/static/image/hero-background-small.jpg",
+    "link": "https://www.uncensoredlibrary.com/en",
+    "media_type": "mundo virtual / net art",
+    "description": "Una biblioteca neoclásica virtual construida dentro de Minecraft para distribuir periodismo censurado en países donde los medios independientes están bloqueados pero el juego es de libre acceso. Desde su lanzamiento en 2020 ha sido visitada más de un millón de veces.",
+    "tags": [
+      "red",
+      "realidad virtual",
+      "videojuego"
+    ]
+  },
+  {
+    "id": "la-prismata",
+    "title": "La Prismata",
+    "artist": "Luis Toledo",
+    "year": "2000",
+    "location": "Spain",
+    "image": "https://payload.cargocollective.com/1/2/95609/14482812/Laprisamata_DraconDrieneOnline_2000_c.jpg",
+    "link": "https://laprisamata.com/",
+    "media_type": "serie de imágenes digitales",
+    "description": "Una serie de imágenes digitales que explora composiciones surrealistas que mezclan iconografía mitológica con estéticas digitales contemporáneas.",
+    "tags": [
+      "imagen digital"
+    ]
+  },
+  {
+    "id": "semantic-failure",
+    "title": "Semantic Failure",
+    "artist": "Sasha Kojjio",
+    "year": "2023",
+    "location": "Tseh Space (exhibition NON SEMANTIC)",
+    "image": "https://thb.tildacdn.com/tild3339-6261-4561-b739-313932383739/-/resize/504x/Sasha_Kojjio_-_seman.jpg",
+    "link": "https://sashakojjio.com/semanticfailure",
+    "media_type": "instalación generativa",
+    "description": "Una instalación generativa que inunda al espectador con texto en cascada hasta que las palabras pierden significado y los glifos se convierten en pura forma visual.",
+    "tags": [
+      "instalación"
+    ]
+  },
+  {
+    "id": "origami-simulator",
+    "title": "Origami Simulator",
+    "artist": "Amanda Ghassaei",
+    "year": "2017",
+    "location": "USA",
+    "image": "https://amandaghassaei.com/projects/origami_simulator/images/wide_1200.jpg",
+    "link": "https://amandaghassaei.com/projects/origami_simulator/",
+    "media_type": "software interactivo / simulación",
+    "description": "Una aplicación WebGL que simula cómo se pliega cualquier patrón de dobleces de origami resolviendo todos los pliegues simultáneamente con un solucionador dinámico acelerado por GPU. También soporta un modo VR interactivo para la manipulación directa de la malla de plegado.",
+    "tags": [
+      "software",
+      "interactivo",
+      "simulación"
+    ]
+  },
+  {
+    "id": "nimbes",
+    "title": "Nimbes",
+    "artist": "Joanie Lemercier & James Ginzburg",
+    "year": "2014",
+    "location": "Montreal, Canada (SAT Satosphere)",
+    "image": "https://i0.wp.com/joanielemercier.com/wp-content/uploads/2018/11/FORET-_MG_7296_sebastien_roy-940_SMALL-e1549658139290.jpg",
+    "link": "https://joanielemercier.com/nimbes/",
+    "media_type": "instalación audiovisual en domo",
+    "description": "Una pieza audiovisual de 15 minutos para entornos de cúpula. Utilizando un escaneo láser 3D de un bosque como fuente visual, la obra explora la observación, la cosmogonía y la individualidad a través de sonido e imagen inmersivos.",
+    "tags": [
+      "instalación",
+      "sonido",
+      "3D"
+    ]
+  },
+  {
+    "id": "bakteria",
+    "title": "bakteria.org",
+    "artist": "Arcangelo Constantini",
+    "year": "1997",
+    "location": "Mexico",
+    "image": "https://www.bakteria.org/logo/Logo2.png",
+    "link": "https://www.bakteria.org/",
+    "media_type": "net art / software generativo",
+    "description": "Un experimento expandido de Net.Art que explora la multiplicidad, simbiosis, conciencia y el surgimiento creativo de la forma a través de un proceso de dibujo generativo automático, usando un neuro-algoritmo que transforma trazos a mano alzada en organismos antropomórficos únicos e irrepetibles.",
+    "tags": [
+      "red",
+      "interactivo"
+    ]
+  },
+  {
+    "id": "tales-from-the-loop",
+    "title": "Tales from the Loop",
+    "artist": "Simon Stålenhag",
+    "year": "2014",
+    "location": "Sweden",
+    "image": "https://www.simonstalenhag.se/tftl/2.jpg",
+    "link": "https://www.simonstalenhag.se/tftl.html",
+    "media_type": "pintura digital / libro ilustrado",
+    "description": "Una serie de pinturas digitales que representan un paisaje sueco retrofuturista donde máquinas colosales y tecnologías extrañas coexisten con la vida rural cotidiana. Publicada como libro ilustrado en 2014, posteriormente inspiró una serie de televisión.",
+    "tags": [
+      "imagen digital"
+    ]
+  },
+  {
+    "id": "private-room-tv",
+    "title": "Private Room/TV",
+    "artist": "Masaki Fujihata",
+    "year": "2009",
+    "location": "Japan",
+    "image": "https://www.kunstuni-linz.at/fileadmin/_processed_/e/7/csm_0517_PrivateRoomTV2_7f95370d4b.jpg",
+    "link": "https://www.youtube.com/watch?v=gKFuyWYEjUs",
+    "media_type": "escultura de luz / instalación",
+    "description": "Una escultura de luz de 200 tubos fluorescentes controlados por PC e impulsados por metraje editado de programas de televisión de principios de los años 60. La instalación funciona como un televisor de 200 píxeles, traduciendo la memoria de transmisión en luz arquitectónica.",
+    "tags": [
+      "instalación",
+      "video",
+      "interactivo"
+    ]
+  },
+  {
+    "id": "lhohq",
+    "title": "Laughing Horse's Orifice Headquarters",
+    "artist": "Unknown",
+    "year": "2007",
+    "location": "Unknown",
+    "image": "https://lhohq.info/atlantic-research-corporation-and-the-ufo-phenomenon.jpg",
+    "link": "https://lhohq.info/",
+    "media_type": "net art / web art",
+    "description": "Un sitio web anónimo y extenso de páginas interconectadas llenas de imágenes crípticas, texto conspiratorio, estéticas glitch y simbolismo oculto, activo desde al menos 2007. Su autoría permanece desconocida y se sitúa en la intersección del arte de internet, ARG y folclore digital.",
+    "tags": [
+      "red",
+      "interactivo"
+    ]
+  },
+  {
+    "id": "angel-engine",
+    "title": "Angel Engine",
+    "artist": "Nicolai Leimer",
+    "year": "2025",
+    "location": "Unknown",
+    "image": "https://futoikarasu.com/wp-content/uploads/2025/03/image-21.png",
+    "link": "https://futoikarasu.com/2025/03/24/angel-engine-y-el-uso-de-la-ia/",
+    "media_type": "serie de videos generados con IA / arte en redes sociales",
+    "description": "Una serie viral de videos de formato corto en TikTok e Instagram que combina imágenes generadas con Midjourney con narración para contar la historia de horror analógico. La obra explora plataformas de redes sociales y mitologías colectivas en línea.",
+    "tags": [
+      "IA",
+      "video",
+      "red"
+    ]
+  },
+  {
+    "id": "party-in-a-google-doc",
+    "title": "Party in a Shared Google Doc",
+    "artist": "Marie Foulston",
+    "year": "2020",
+    "location": "United Kingdom (online)",
+    "image": "https://miro.medium.com/v2/da:true/resize:fill:720:379/g:fp:0.49:0.35/0*SSyp_atwVCbq3bJ-",
+    "link": "https://onezero.medium.com/party-in-a-shared-google-doc-d576c565706e",
+    "media_type": "net art / experimento social",
+    "description": "Una fiesta organizada dentro de una hoja de cálculo compartida de Google durante el confinamiento por COVID-19, donde participantes anónimos construyeron habitaciones, decoraciones y una pista de baile colaborativamente a través de múltiples pestañas.",
+    "tags": [
+      "red",
+      "interactivo",
+      "performance"
+    ]
+  },
+  {
+    "id": "datamatics",
+    "title": "datamatics",
+    "artist": "Ryoji Ikeda",
+    "year": "2006",
+    "location": "Japan / Worldwide",
+    "image": "https://www.ryojiikeda.com/data/work/concert-datamatics-03.jpg",
+    "link": "https://www.ryojiikeda.com/project/datamatics",
+    "media_type": "instalación audiovisual / concierto",
+    "description": "Un proyecto de larga duración que explora el potencial estético de los datos puros a través de conciertos audiovisuales, instalaciones y publicaciones.",
+    "tags": [
+      "software",
+      "instalación",
+      "performance"
+    ]
+  },
+  {
+    "id": "the-treachery-of-sanctuary",
+    "title": "The Treachery of Sanctuary",
+    "artist": "Chris Milk",
+    "year": "2012",
+    "location": "San Francisco, USA",
+    "image": "https://images.squarespace-cdn.com/content/v1/589120929f7456770050ac7f/1517452746029-1NCUC12R7YR14FBROLR5/483820630.jpg",
+    "link": "http://milk.co/treachery",
+    "media_type": "instalación interactiva",
+    "description": "Un tríptico interactivo a gran escala en el que tres sensores Kinect capturan las siluetas corporales de los visitantes y las proyectan en paneles de 30 pies, donde bandadas de pájaros 3D disuelven, atacan o transforman las sombras en alas.",
+    "tags": [
+      "instalación",
+      "interactivo",
+      "3D"
+    ]
+  },
+  {
+    "id": "the-clock",
+    "title": "The Clock",
+    "artist": "Christian Marclay",
+    "year": "2010",
+    "location": "New York, USA (MoMA) / Worldwide",
+    "image": "https://rednacionaldearte.com/noticias/wp-content/uploads/2023/05/Christian-Marclay-The-Clock-2010-a3-copiemodif1-scaled-2-768x514.jpg",
+    "link": "https://www.moma.org/calendar/exhibitions/5746",
+    "media_type": "videoinstalación",
+    "description": "Un montaje de video de 24 horas ensamblado a partir de miles de clips de cine y televisión que representan relojes, cada uno sincronizado con la hora real del día cuando se visualiza. La obra es simultáneamente una historia del cine y un reloj funcional.",
+    "tags": [
+      "video",
+      "instalación"
+    ]
+  },
+  {
+    "id": "your-palm-is-my-universe",
+    "title": "Your Palm is My Universe",
+    "artist": "Pipilotti Rist",
+    "year": "2025",
+    "location": "Beijing, China (UCCA Center for Contemporary Art)",
+    "image": "https://ucca.org.cn/storage/public/images/3/e/2/d473ea-23a9e7-006fe1.banner.jpg",
+    "link": "https://ucca.org.cn/en/exhibition/pipilotti-rist/",
+    "media_type": "videoinstalación",
+    "description": "Una videoinstalación multicanal específica del sitio que transforma el Gran Salón de UCCA en un cosmos inmersivo de telas colgantes similares a la piel sobre las cuales se proyectan videos en bucle y una banda sonora encargada a la música Surma.",
+    "tags": [
+      "instalación",
+      "video",
+      "sonido"
+    ]
+  },
+  {
+    "id": "dimoda-3-talismans",
+    "title": "DiMoDA 3.0: Talismans (74L15M4N5) + Mind Body Dualism (MND//BDY)",
+    "artist": "DiMoDA (collective) / various artists",
+    "year": "2018",
+    "location": "New York, USA (3LD Art and Tech Center) / Virtual Reality",
+    "image": "http://static1.squarespace.com/static/58a4919d414fb5ca22896453/58a638c359cc68ff9814a734/5b0249f42b6a285b39d09403/1526877266674/Capture4.PNG?format=1500w",
+    "link": "https://dimoda.art/upcoming-exhibitions/2018/5/24/opening-dimoda-30-talismans-74l15m4n5-mind-body-dualism-mndbdy",
+    "media_type": "instalación en realidad virtual / exposición",
+    "description": "Museo Digital de Arte Digital (DiMoDA), una plataforma de museo nativa de VR.",
+    "tags": [
+      "realidad virtual",
+      "interactivo",
+      "3D"
+    ]
+  },
+  {
+    "id": "a-forest",
+    "title": "A Forest",
+    "artist": "Max de Esteban",
+    "year": "2019",
+    "location": "Barcelona, Spain (MACBA Collection)",
+    "image": "https://d2zy2h1755x359.cloudfront.net/public/DigitalAsset/294942/f7dec4ef491bdb149104164f7ba5e52f/full/large/0/default.jpg",
+    "link": "https://www.macba.cat/es/obra/r5916-a-forest/",
+    "media_type": "video monocanal",
+    "description": "Un video de 23 minutos que deambula por un bosque invernal sin un camino predeterminado, acompañado de un monólogo de un gestor de fondos de capital de riesgo de IA que cuestiona la realidad de lo que vemos.",
+    "tags": [
+      "IA",
+      "video",
+      "simulación"
+    ]
   }
 ]
