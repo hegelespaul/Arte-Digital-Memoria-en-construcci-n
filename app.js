@@ -41,7 +41,7 @@ function renderTimeline() {
   const filterBar = document.createElement("div");
   filterBar.id = "tl-filter-bar";
   filterBar.innerHTML = `
-    <input type="text" id="tl-search" placeholder="Search title, artist, tag…">
+    <input type="text" id="tl-search" placeholder="Buscar títulos, artistas, etiquetas…">
     <span id="tl-count"></span>
   `;
   container.appendChild(filterBar);
@@ -305,7 +305,7 @@ function renderTimeline() {
     });
 
     document.getElementById("tl-count").textContent =
-      `${subset.length} work${subset.length !== 1 ? "s" : ""}`;
+      `${subset.length} obra${subset.length !== 1 ? "s" : ""}`;
   }
 
   // ── Legend (tags from data only) ─────────────────────────────────────────────
