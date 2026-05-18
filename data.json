@@ -10,7 +10,7 @@
     "artist": "A. Michael Noll",
     "year": "1963",
     "location": "New Jersey, USA",
-    "image": "https://framemark.vam.ac.uk/collections/2011EY6947/full/735,/0/default.jpg",
+    "image": "images/default.jpg",
     "link": "https://collections.vam.ac.uk/item/O1193785/gaussian-quadratic-photograph-a-michael-noll/"
   },
   {
@@ -24,7 +24,7 @@
     "artist": "Charles Csuri",
     "year": "1967",
     "location": "New Jersey, USA",
-    "image": "https://images.squarespace-cdn.com/content/v1/6026d8eb9eefee535832378f/e0dde78a-c4e9-400e-bf1d-0638888370de/WebPlotterHummingbirdCircle%2B%281%29.jpg",
+    "image": "images/hummingbird.jpg",
     "link": "https://www.charlescsuri.com/historic/hummingbird"
   },
   {
@@ -39,7 +39,7 @@
     "artist": "John Whitney",
     "year": "1961",
     "location": "California, USA",
-    "image": "https://img.youtube.com/vi/TbV7loKp69s/0.jpg",
+    "image": "images/0.jpg",
     "link": "https://www.youtube.com/watch?v=TbV7loKp69s"
   },
   {
@@ -54,7 +54,7 @@
     "artist": "Bela Julesz",
     "year": "1960",
     "location": "New Jersey, USA",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIeDjM4_lOrF1x6eYvUgUJ83w1FdKnPnxAbQ&s",
+    "image": "images/images.jpg",
     "link": "http://dada.compart-bremen.de/item/artwork/505"
   },
   {
@@ -82,7 +82,7 @@
     "artist": "Frieder Nake",
     "year": "1967",
     "location": "Germany",
-    "image": "https://dam.org/museum/wp-content/uploads/2020/10/Nake1976Matritzenmultiplikation.jpg",
+    "image": "images/Nake1976Matritzenmultiplikation.jpg",
     "link": "https://proyectoidis.org/frieder-nake/"
   },
   {
@@ -97,7 +97,7 @@
     "artist": "John Whitney",
     "year": "1968",
     "location": "California, USA",
-    "image": "https://img.youtube.com/vi/BzB31mD4NmA/0.jpg",
+    "image": "images/permutations.jpg",
     "link": "http://youtube.com/watch?v=BzB31mD4NmA"
   },
   {
@@ -112,7 +112,7 @@
     "artist": "John Whitney",
     "year": "1975",
     "location": "California, USA",
-    "image": "https://img.youtube.com/vi/cxkbScwt77g/0.jpg",
+    "image": "images/arabesque.jpg",
     "link": "https://www.youtube.com/watch?v=cxkbScwt77g"
   },
   {
@@ -128,7 +128,7 @@
     "artist": "Nam June Paik and Shuya Abe",
     "year": "1964",
     "location": "New York, USA",
-    "image": "https://cyberneticzoo.com/wp-content/uploads/k456-Nam-June-Paik-K456_p1-x640.jpg",
+    "image": "images/k456-Nam-June-Paik-K456_p1-x640.jpg",
     "link": "https://cyberneticzoo.com/robots-in-art/1964-robot-k-456-nam-june-paik-korean-shuya-abe-japanese/"
   },
   {
@@ -143,7 +143,7 @@
     "artist": "Bruce Lacey",
     "year": "1965",
     "location": "London, UK",
-    "image": "https://cyberneticzoo.com/wp-content/uploads/BruceLacy%20012-x640.jpg",
+    "image": "images/BruceLacy.jpg",
     "link": "https://cyberneticzoo.com/robots/1965-rosa-bosom-bruce-lacey-british/"
   },
   {
@@ -159,7 +159,7 @@
     "artist": "Wen-Ying Tsai",
     "year": "1969",
     "location": "New York, USA",
-    "image": "https://media.tate.org.uk/art/images/work/L/L04/L04611_9.jpg",
+    "image": "images/L04611_9.jpg",
     "link": "https://www.tiktok.com/@museumtiktok/video/7449353653728759086"
   },
   {
@@ -174,7 +174,7 @@
     "artist": "Jean Tinguely",
     "year": "1960",
     "location": "New York, USA",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT4ceZ6Pu9YGCj4Y5GNGBMQwOv9yIYgmFP9ET2NtxJQYibZZ-jJqXUbf3TP_QmtnEgTVwWkusLSIXtEPl2dGbDy40RYG_dJcQTQOidjOVXOwUkdRKLv8a4r7xGu2myuxponhIXFvc3DQcd/w1200-h630-p-k-no-nu/lovemachineblog.jpg",
+    "image": "images/lovemachineblog.jpg",
     "link": "https://smarthistory.org/tinguely-homage-new-york/"
   },
   {
@@ -190,7 +190,7 @@
     "artist": "Edward Ihnatowicz",
     "year": "1970",
     "location": "Eindhoven, Netherlands",
-    "image": "https://proyectoidis.org/wp-content/uploads/2013/08/senster9-lrg.jpg",
+    "image": "images/senster9-lrg.jpg",
     "link": "https://www.youtube.com/watch?v=CK7ZMRqyTWU"
   },
   {
@@ -205,7 +205,7 @@
     "artist": "Robert Barry",
     "year": "1968",
     "location": "New York, USA",
-    "image": "https://www.noshowmuseum.com/content/images/1.%20OG%20B%20(Unsichtbare%20Kunst)/Barry5.png",
+    "image": "images/Barry5.jpg",
     "link": "https://www.moma.org/collection/works/137431"
   },
   {
@@ -221,7 +221,7 @@
     "artist": "Carl Fernbach-Flarsheim",
     "year": "1970",
     "location": "New York, USA",
-    "image": "https://generativeart.online/notes/intro/images/conceptual-typewriter-1.png",
+    "image": "images/conceptual-typewriter-1.jpg",
     "link": "https://rhizome.org/editorial/2013/jan/16/prosthetic-knowledge-picks-typewriter/"
   },
   {
@@ -237,7 +237,7 @@
     "artist": "Alvin Lucier",
     "year": "1969",
     "location": "Waltham, USA",
-    "image": "https://www.digitalinberlin.de/wordpress/wp-content/2024/06/AlvinLucier_1999.jpeg",
+    "image": "images/AlvinLucier_1999.jpg",
     "link": "https://www.youtube.com/watch?v=DwPMv53k-a8"
   },
   {
@@ -252,7 +252,7 @@
     "artist": "Liza Béar and Keith Sonnier",
     "year": "1977",
     "location": "New York / San Francisco, USA",
-    "image": "https://img.youtube.com/vi/sPZUlqNO0Io/0.jpg",
+    "image": "images/send-receive.jpg",
     "link": "https://toolkitfortheinbetween.com/case-studies/send-receive-satellite-network-some-history/"
   },
   {
@@ -267,7 +267,7 @@
     "artist": "Robert Adrian X",
     "year": "1982",
     "location": "Linz, Austria",
-    "image": "https://d1v7jayx2s9clc.cloudfront.net/user/pages/47.the-world-in-24-hours/1.01a%20262f3d665f3ebe0bb7af2a1044ea9d23.jpg",
+    "image": "images/world24hours.jpg",
     "link": "https://anthology.rhizome.org/the-world-in-24-hours"
   },
   {
@@ -283,7 +283,7 @@
     "artist": "Douglas Davis",
     "year": "1977",
     "location": "Kassel, Germany / Caracas, Venezuela",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtezkOeWswyU2hzUHFjb1alH_zy7zW4s6Id1-oXYkwqTL5mSuR4tV2PwGN6Xv75uDbzeLDOaRQcJos26xkmjKwlLGYIpim3iTANhcgNe_gx9S5aN2ugAubdX5BQIz4b8VWxBIeabF5Co39/s1600/douglasdavisslowscan_sm.jpg",
+    "image": "images/douglasdavisslowscan_sm.jpg",
     "link": "https://proyectoidis.org/douglas-davis/"
   },
   {
@@ -298,7 +298,7 @@
     "artist": "Kit Galloway and Sherrie Rabinowitz",
     "year": "1977",
     "location": "California / Maryland, USA",
-    "image": "https://d1v7jayx2s9clc.cloudfront.net/user/pages/46.mobile-image/sat_arts.png",
+    "image": "images/sat_arts.jpg",
     "link": "https://anthology.rhizome.org/mobile-image"
   },
   {
@@ -313,7 +313,7 @@
     "artist": "Martha Rosler",
     "year": "1975",
     "location": "New York, USA",
-    "image": "https://www.moma.org/media/W1siZiIsIjE0NjQ5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg",
+    "image": "images/W1siZiIsIjE0NjQ5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg",
     "link": "https://www.youtube.com/watch?v=ZuZympOIGC0"
   },
   {
@@ -327,7 +327,7 @@
     "artist": "Harold Cohen",
     "year": "1973",
     "location": "California, USA",
-    "image": "https://creacionhibrida.net/wp-content/uploads/2022/04/Turtlle-harold-cohen.jpg",
+    "image": "images/Turtlle-harold-cohen.jpg",
     "link": "https://creacionhibrida.net/harold-cohen-un-pionero-del-arte-generado-por-computadora-y-creador-del-sistema-aaron/"
   },
   {
@@ -342,7 +342,7 @@
     "artist": "Lillian Schwartz",
     "year": "1971",
     "location": "New Jersey, USA",
-    "image": "https://sto-je-novo.25fps.hr/img/modelImages/GalleryItem/default/T0rqt5f2e1CyZ51Ktm4pPfpeyVwiQdZz.jpg",
+    "image": "images/T0rqt5f2e1CyZ51Ktm4pPfpeyVwiQdZz.jpg",
     "link": "https://www.instagram.com/reels/DRUq0kNiDsc/"
   },
   {
@@ -357,7 +357,7 @@
     "artist": "Peter Foldes",
     "year": "1971",
     "location": "Canada",
-    "image": "https://images.mubicdn.net/images/film/179687/cache-250605-1745494056/image-w1280.jpg",
+    "image": "images/image-w1280.jpg",
     "link": "https://www.youtube.com/watch?v=R6FQf3Qbqa4"
   },
   {
@@ -388,7 +388,7 @@
     "artist": "David Em",
     "year": "1977",
     "location": "Pasadena, USA",
-    "image": "https://photoworks.org.uk/app/uploads/2013/09/caption-3_Aku-700x576.jpg",
+    "image": "images/caption-3_Aku-700x576.jpg",
     "link": "https://creacionhibrida.net/david-em-sus-creaciones-han-redefinido-el-territorio-del-arte-tecnologico/"
   },
   {
@@ -404,7 +404,7 @@
     "artist": "Roy Ascott",
     "year": "1978",
     "location": "United Kingdom / United States",
-    "image": "https://artelectronicmedia.com/wp-content/uploads/220px-Silent-700.jpg",
+    "image": "images/220px-Silent-700.jpg",
     "link": "https://books.google.com.mx/books/about/Telematic_Embrace.html?id=cbAwDwAAQBAJ&redir_esc=y"
   },
   {
@@ -419,7 +419,7 @@
     "artist": "Larry Cuba",
     "year": "1979",
     "location": "California, USA",
-    "image": "https://history.siggraph.org/wp-content/uploads/2018/09/Two-Space.jpg",
+    "image": "images/Two-Space.jpg",
     "link": "https://www.youtube.com/watch?v=ddd5z0CgPKg"
   },
   {
@@ -449,7 +449,7 @@
     "artist": "Nancy Burson",
     "year": "1982",
     "location": "New York, USA",
-    "image": "https://clampart.com/wp-content/uploads/2012/06/Burson_Beauty-Composite-12-680x287.jpg",
+    "image": "images/Burson_Beauty-Composite-12-680x287.jpg",
     "link": "https://clampart.com/2014/01/nancy-burson-2/#thumbnails"
   },
   {
@@ -464,7 +464,7 @@
     "artist": "Edwin Catmull and Fred Parke",
     "year": "1972",
     "location": "Utah, USA",
-    "image": "https://proyectoidis.org/wp-content/uploads/2013/07/Futureworld-02.jpg",
+    "image": "images/Futureworld-02.jpg",
     "link": "https://www.youtube.com/watch?v=naGntYNTSQM"
   },
   {
@@ -479,7 +479,7 @@
     "artist": "Ernest Edmonds",
     "year": "1985",
     "location": "London, UK",
-    "image": "https://th.bing.com/th/id/R.99eced3a79eae12171399bd3e49830f3?rik=W35u9v26m7dpsg&riu=http%3a%2f%2fgazell.io%2fcdn%2fshop%2ffiles%2fEE0001-3.jpg%3fv%3d1694685018&ehk=8sqL%2brNhEVN2hITUjHKgl0EhYHxCkMbfkRG4PNC7mqI%3d&risl=&pid=ImgRaw&r=0",
+    "image": "images/R.jpg",
     "link": "https://www.youtube.com/watch?v=Z2dBwOHMySM"
   },
   {
@@ -493,7 +493,7 @@
     "artist": "Geoff Davis / Micro Arts Group",
     "year": "1984",
     "location": "United Kingdom",
-    "image": "https://microartsgroup.com/wp-content/uploads/2019/02/mao-4-png.png",
+    "image": "images/mao-4-png.jpg",
     "link": "https://www.youtube.com/watch?v=r4Jvpgo3g4M&t=1s"
   },
   {
@@ -509,7 +509,7 @@
     "artist": "Jeffrey Shaw",
     "year": "1989",
     "location": "Netherlands",
-    "image": "https://www.jeffreyshawcompendium.com/wp-content/uploads/2015/03/js44w1989LegibCit1_o018_r.jpg",
+    "image": "images/js44w1989LegibCit1_o018_r.jpg",
     "link": "https://www.youtube.com/watch?v=7XFtMpjhniM"
   },
   {
@@ -524,7 +524,7 @@
     "artist": "Myron W. Krueger",
     "year": "1985",
     "location": "USA",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWh2eYKgtTDkWAV-H4MdXyp4rOwXjyjbnaQA&s",
+    "image": "images/videoplace.jpg",
     "link": "https://www.youtube.com/watch?v=d4DUIeXSEpk"
   },
   {
@@ -539,7 +539,7 @@
     "artist": "Brenda Laurel",
     "year": "1984",
     "location": "USA",
-    "image": "https://arthouse.thomafoundation.org/wp-content/uploads/sites/2/2020/05/Thoma-9226-edit-2-scaled.jpg",
+    "image": "images/Thoma-9226-edit-2-scaled.jpg",
     "link": "https://www.youtube.com/watch?v=hiPMZOQnn9A"
   },
   {
@@ -554,7 +554,7 @@
     "artist": "MIT Architecture Machine Group",
     "year": "1980",
     "location": "Massachusetts, USA",
-    "image": "https://proyectoidis.org/wp-content/uploads/2015/05/descarga2-1024x698.jpg",
+    "image": "images/descarga2-1024x698.jpg",
     "link": "https://www.youtube.com/watch?v=Hf6LkqgXPMU&t=41s"
   },
   {
@@ -568,7 +568,7 @@
     "artist": "Manfred Mohr",
     "year": "1980",
     "location": "Germany",
-    "image": "https://www.emohr.com/images/Canada-1980s.jpg",
+    "image": "images/Canada-1980s.jpg",
     "link": "https://www.emohr.com/two_1980.html"
   },
   {
@@ -583,7 +583,7 @@
     "artist": "Nam June Paik",
     "year": "1984",
     "location": "USA / France",
-    "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Paik_-_Orwell_-_Sapho.jpg",
+    "image": "images/Paik_-_Orwell_-_Sapho.jpg",
     "link": "https://www.youtube.com/watch?v=0P1ekHDnRcM"
   },
   {
@@ -599,7 +599,7 @@
     "artist": "Yoichiro Kawaguchi",
     "year": "1983",
     "location": "Japan",
-    "image": "https://history.siggraph.org/wp-content/uploads/2018/04/1983_Kawaguchi_Growth.jpg",
+    "image": "images/1983_Kawaguchi_Growth.jpg",
     "link": "https://www.youtube.com/watch?v=CkTpFa4iR3U"
   },
   {
@@ -613,7 +613,7 @@
     "artist": "Charlotte Johannesson",
     "year": "1980s",
     "location": "Sweden",
-    "image": "https://static.croynielsen.com/site/assets/files/4943/croy_nielsen_charlotte_johannesson_boy_george-_english_singer-_1961_1983_kunstodkumentation_com.1200x0.1714738418.jpg",
+    "image": "images/croy_nielsen_charlotte_johannesson_boy_george-_english_singer-_1961_1983_kunstodkumentation_com.1200x0.1714738418.jpg",
     "link": "https://es.artealdia.com/Noticias/CHARLOTTE-JOHANNESSON-ARTE-TEXTIL-Y-DIGITAL-FEMINISTA"
   },
   {
@@ -645,7 +645,7 @@
     "artist": "George E. Lewis",
     "year": "1987",
     "location": "United States",
-    "image": "https://s3.us-east-1.amazonaws.com/bomb-images/_eightHundred/lewis_03_body.jpg",
+    "image": "images/lewis_03_body.jpg",
     "link": "https://www.youtube.com/watch?v=wGfeh7MNTpU"
   },
   {
@@ -661,7 +661,7 @@
     "artist": "Karin Sander",
     "year": "1997",
     "location": "Germany",
-    "image": "https://static-assets.artlogic.net/w_650,h_650,c_limit,f_auto,fl_lossy,q_auto:best/artlogicstorage/estherschipper/images/view/d68a95b583f910102b3a492c223dc1bc37991e99.jpg",
+    "image": "images/d68a95b583f910102b3a492c223dc1bc37991e99.jpg",
     "link": "http://karinsander.de/en/work/3d-bodyscan"
   },
   {
@@ -677,7 +677,7 @@
     "artist": "Christa Sommerer and Laurent Mignonneau",
     "year": "1994",
     "location": "Austria",
-    "image": "https://history.siggraph.org/wp-content/uploads/2017/04/1994_SommererAndMignonneau_AVolve.jpg",
+    "image": "images/1994_SommererAndMignonneau_AVolve.jpg",
     "link": "https://www.youtube.com/watch?v=cZ3v1jcCXmk"
   },
   {
@@ -691,7 +691,7 @@
     "artist": "Paul M. Smith",
     "year": "1997",
     "location": "UK",
-    "image": "https://6d49d47bd32a151032ae-907965fc79c9900a93c12efeb23103bd.ssl.cf1.rackcdn.com/artworks/SMITHartistrifleseriesSMP0027.jpg",
+    "image": "images/SMITHartistrifleseriesSMP0027.jpg",
     "link": "https://www.youtube.com/watch?v=GesJwVvIC8M"
   },
   {
@@ -707,7 +707,7 @@
     "artist": "Craig Kalpakjian",
     "year": "1997",
     "location": "USA",
-    "image": "https://d1hhug17qm51in.cloudfront.net/www-media/2022/05/02105725/2000.15_01_d03-Artsy-JPEG_4000-pixels-long.jpg",
+    "image": "images/2000.15_01_d03-Artsy-JPEG_4000-pixels-long.jpg",
     "link": "https://www.sfmoma.org/artwork/2000.15/"
   },
   {
@@ -723,7 +723,7 @@
     "artist": "Ars Electronica Futurelab",
     "year": "1996",
     "location": "Austria",
-    "image": "https://ars.electronica.art/futurelab/files/2021/03/FL_PIC_04560_AEC_AEC_2003_humphrey_Humphrey-I_2000x1000.jpg",
+    "image": "images/FL_PIC_04560_AEC_AEC_2003_humphrey_Humphrey-I_2000x1000.jpg",
     "link": "https://ars.electronica.art/futurelab/en/projects-humphrey/"
   },
   {
@@ -739,7 +739,7 @@
     "artist": "Maurice Benayoun",
     "year": "1999",
     "location": "France",
-    "image": "https://ars.electronica.art/futurelab/files/2021/03/FL_WorldSkin1999_AE_Banner_2000x1000.jpg",
+    "image": "images/FL_WorldSkin1999_AE_Banner_2000x1000.jpg",
     "link": "https://ars.electronica.art/futurelab/en/projects-world-skin/"
   },
   {
@@ -754,7 +754,7 @@
     "artist": "Camille Utterback and Romy Achituv",
     "year": "1999",
     "location": "USA",
-    "image": "https://camilleutterback.com/wp2022/wp-content/gallery/text-rain/textrain2.jpg",
+    "image": "images/textrain2.jpg",
     "link": "https://camilleutterback.com/projects/text-rain/"
   },
   {
@@ -769,7 +769,7 @@
     "artist": "William Latham",
     "year": "1993",
     "location": "UK",
-    "image": "https://history.siggraph.org/wp-content/uploads/2019/02/1994_Latham_Biogenesis.jpg",
+    "image": "images/1994_Latham_Biogenesis.jpg",
     "link": "https://history.siggraph.org/artwork/william-latham-biogenesis/"
   },
   {
@@ -783,7 +783,7 @@
     "artist": "Andreas Müller-Pohle",
     "year": "1995",
     "location": "Germany",
-    "image": "https://muellerpohle.net/wp-content/uploads/2014/08/DigitalScoresIII-6-465x465.jpg",
+    "image": "images/DigitalScoresIII-6-465x465.jpg",
     "link": "https://muellerpohle.net/projects/digital-scores/"
   },
   {
@@ -797,7 +797,7 @@
     "artist": "Jochem Hendricks",
     "year": "1992",
     "location": "USA",
-    "image": "https://jochem-hendricks.de/wp-content/uploads/2020/05/EYE-DRAWING-01.jpg",
+    "image": "images/EYE-DRAWING-01.jpg",
     "link": "http://www.medienkunstnetz.de/works/augenzeichnungen/images/1/"
   },
   {
@@ -812,7 +812,7 @@
     "artist": "Michael Rees",
     "year": "1996",
     "location": "USA",
-    "image": "https://images.squarespace-cdn.com/content/v1/51197458e4b0f1a7921105ed/1360642541842-ZB0KBNEDX3DD5ERXUYGM/Ajna111render.jpg?format=750w",
+    "image": "images/Ajna111render.jpg",
     "link": "https://michaelrees.org/ajnas"
   },
   {
@@ -827,7 +827,7 @@
     "artist": "Rafael Lozano-Hemmer",
     "year": "1997",
     "location": "Mexico",
-    "image": "https://www.lozano-hemmer.com/image_sets/displaced_emperors/linz_1997/displacedemperors_linz_03.jpg",
+    "image": "images/displacedemperors_linz_03.jpg",
     "link": "https://www.lozano-hemmer.com/displaced_emperors.php"
   },
   {
@@ -842,7 +842,7 @@
     "artist": "Bill Seaman",
     "year": "1997",
     "location": "USA",
-    "image": "https://billseaman.com/images/portfolio/menu%20system.jpeg",
+    "image": "images/worldgenerator.jpg",
     "link": "https://billseaman.com/works/1997_world_generator.html"
   },
   {
@@ -857,7 +857,7 @@
     "artist": "Jim Campbell",
     "year": "1998",
     "location": "USA",
-    "image": "https://cdn.prod.website-files.com/63495c99667b34725c45e93f/635e12a37080450cb14b250e_I10-Flip-re-scaled.jpeg",
+    "image": "images/635e12a37080450cb14b250e_I10-Flip-re-scaled.jpg",
     "link": "https://www.jimcampbell.tv/portfolio/hallucination"
   },
   {
@@ -872,7 +872,7 @@
     "artist": "Jeffrey Shaw",
     "year": "1993",
     "location": "Netherlands",
-    "image": "https://www.jeffreyshawcompendium.com/wp-content/uploads/2015/03/js44w1993EVExxxxx1_o010_f.jpg",
+    "image": "images/js44w1993EVExxxxx1_o010_f.jpg",
     "link": "https://www.jeffreyshawcompendium.com/platform/eve/"
   },
   {
@@ -887,7 +887,7 @@
     "artist": "Toshio Iwai",
     "year": "1995",
     "location": "Karlsruhe, Germany",
-    "image": "https://deodesign.wordpress.com/wp-content/uploads/2007/10/119.jpg",
+    "image": "images/119.jpg",
     "link": "https://video.wrocenter.pl/en/wideo/dca_europeana/piano_image/"
   },
   {
@@ -902,7 +902,7 @@
     "artist": "Eduardo Kac",
     "year": "1999",
     "location": "Brazil",
-    "image": "https://www.ekac.org/genphoto1.jpeg",
+    "image": "images/genphoto1.jpg",
     "link": "https://www.ekac.org/geninfo.html"
   },
   {
@@ -918,7 +918,7 @@
     "artist": "Eduardo Kac",
     "year": "1996",
     "location": "Brazil",
-    "image": "https://www.ekac.org/rara.avis.full.body.jpg",
+    "image": "images/rara.avis.full.body.jpg",
     "link": "https://www.ekac.org/raraavis-info.html"
   },
   {
@@ -934,7 +934,7 @@
     "artist": "Natalie Bookchin",
     "year": "1999",
     "location": "USA",
-    "image": "https://bookchin.net/wp-content/uploads/2015/09/intruder-2ndtrip1.jpg",
+    "image": "images/intruder-2ndtrip1.jpg",
     "link": "https://bookchin.net/projects/the-intruder/"
   },
   {
@@ -949,7 +949,7 @@
     "artist": "Shu Lea Cheang",
     "year": "1998",
     "location": "USA",
-    "image": "https://www.guggenheim.org/wp-content/uploads/1998/01/2005.44_web-1.jpg",
+    "image": "images/2005.44_web-1.jpg",
     "link": "https://www.guggenheim.org/artwork/15337"
   },
   {
@@ -963,7 +963,7 @@
     "artist": "Vuk Ćosić",
     "year": "1998",
     "location": "Slovenia",
-    "image": "https://www.e-arhiv.org/diva/cache/540_w22_08VukCosicDeepASCIIb.jpg",
+    "image": "images/540_w22_08VukCosicDeepASCIIb.jpg",
     "link": "https://www.e-arhiv.org/diva/index.php?id=22&opt=work&lang_pref=en"
   },
   {
@@ -977,7 +977,7 @@
     "artist": "Electronic Disturbance Theater",
     "year": "1998",
     "location": "USA",
-    "image": "https://arte-util.org/cms/wp-content/uploads/2013/11/428-Floodnet-01-1415x1060.jpg",
+    "image": "images/428-Floodnet-01-1415x1060.jpg",
     "link": "https://arte-util.org/projects/zapatista-tactical-floodnet/"
   },
   {
@@ -993,7 +993,7 @@
     "artist": "Ken Goldberg",
     "year": "1995",
     "location": "USA",
-    "image": "https://goldberg.berkeley.edu/garden/telegarden-8x6-72dpi.jpg",
+    "image": "images/telegarden-8x6-72dpi.jpg",
     "link": "https://goldberg.berkeley.edu/garden/Ars/"
   },
   {
@@ -1007,7 +1007,7 @@
     "artist": "JODI",
     "year": "1995",
     "location": "Netherlands",
-    "image": "https://proyectoidis.org/wp-content/uploads/2019/01/Jodi-02.jpg",
+    "image": "images/Jodi-02.jpg",
     "link": "https://proyectoidis.org/jodi/"
   },
   {
@@ -1023,7 +1023,7 @@
     "artist": "Rafael Lozano-Hemmer",
     "year": "1999",
     "location": "Mexico",
-    "image": "https://www.lozano-hemmer.com/image_sets/vectorial_elevation/mexico_2000/vectorialelevation_mexico_03.jpg",
+    "image": "images/vectorialelevation_mexico_03.jpg",
     "link": "https://www.lozano-hemmer.com/vectorial_elevation.php"
   },
   {
@@ -1038,7 +1038,7 @@
     "artist": "Mark Napier",
     "year": "1998",
     "location": "USA",
-    "image": "https://www.marknapier.com/wp-content/uploads/2018/01/shredder_whitney2.jpg",
+    "image": "images/shredder_whitney2.jpg",
     "link": "https://www.marknapier.com/portfolio/shredder/"
   },
   {
@@ -1054,7 +1054,7 @@
     "artist": "RSG",
     "year": "2005",
     "location": "Germany",
-    "image": "https://r-s-g.org/PP/THUG2/RSG-THUG2-3.jpg",
+    "image": "images/RSG-THUG2-3.jpg",
     "link": "https://r-s-g.org/PP/"
   },
   {
@@ -1070,7 +1070,7 @@
     "artist": "John Klima",
     "year": "1999",
     "location": "USA",
-    "image": "https://www.fondation-langlois.org/media/CRD/public/d00017592.jpg",
+    "image": "images/d00017592.jpg",
     "link": "http://www.medienkunstnetz.de/works/earth/images/3/"
   },
   {
@@ -1085,7 +1085,7 @@
     "artist": "Michael Mandiberg",
     "year": "2001",
     "location": "USA",
-    "image": "https://www.aftersherrielevine.com/assets/2m.jpg",
+    "image": "images/2m.jpg",
     "link": "https://www.aftersherrielevine.com/"
   },
   {
@@ -1101,7 +1101,7 @@
     "artist": "DJ Spooky",
     "year": "2004",
     "location": "USA",
-    "image": "https://silentfilm.org/wp-content/uploads/2022/03/Rebirth-Michael-Raz-Russo.2400.jpg",
+    "image": "images/Rebirth-Michael-Raz-Russo.2400.jpg",
     "link": "https://silentfilm.org/event/rebirth-of-a-nation/"
   },
   {
@@ -1131,7 +1131,7 @@
     "artist": "Marie Sester",
     "year": "2003",
     "location": "USA",
-    "image": "https://proyectoidis.org/wp-content/uploads/2018/02/Sester-01.jpg",
+    "image": "images/Sester-01.jpg",
     "link": "https://proyectoidis.org/access/"
   },
   {
@@ -1147,7 +1147,7 @@
     "artist": "Eva and Franco Mattes",
     "year": "2000",
     "location": "Italy",
-    "image": "https://0100101110101101.org/blog/wp-content/uploads/2014/02/life-sharing-computer-700x525.jpg",
+    "image": "images/life-sharing-computer-700x525.jpg",
     "link": "https://anthology.rhizome.org/life-sharing"
   },
   {
@@ -1162,7 +1162,7 @@
     "artist": "Cory Arcangel",
     "year": "2002",
     "location": "USA",
-    "image": "https://whitneymedia.org/assets/artwork/20588/WMAA_PROGRAMMED_32_PS-01_SM.jpg",
+    "image": "images/WMAA_PROGRAMMED_32_PS-01_SM.jpg",
     "link": "https://whitney.org/collection/works/20588"
   },
   {
@@ -1177,7 +1177,7 @@
     "artist": "Eshkar & Kaiser",
     "year": "2002",
     "location": "USA",
-    "image": "https://openendedgroup.com/images/ped_cunn.jpg",
+    "image": "images/ped_cunn.jpg",
     "link": "https://openendedgroup.com/artworks/ped.html"
   },
   {
@@ -1192,7 +1192,7 @@
     "artist": "John Klima",
     "year": "2000",
     "location": "USA",
-    "image": "https://www.cityarts.com/glasbeadweb/gbicc.jpg",
+    "image": "images/gbicc.jpg",
     "link": "https://www.cityarts.com/langlois/glasbead.html"
   },
   {
@@ -1208,7 +1208,7 @@
     "artist": "Golan Levin",
     "year": "2001",
     "location": "Linz, Austria",
-    "image": "https://www.flong.com/archive/storage/images/projects/telesymphony.jpg",
+    "image": "images/telesymphony.jpg",
     "link": "https://www.flong.com/archive/projects/telesymphony/index.html"
   },
   {
@@ -1223,7 +1223,7 @@
     "artist": "Tobias C. van Veen",
     "year": "2004",
     "location": "Canada",
-    "image": "https://lh3.googleusercontent.com/proxy/zRVfZ1oUlEqe2mdfnxGdPrQQU3ZeUmmtUta44LFB7dvxjN01wun_IkCExLt5qi6IR8jQr_MBpO8GEsh0kKp9VBxxq_ilYUA",
+    "image": "images/zRVfZ1oUlEqe2mdfnxGdPrQQU3ZeUmmtUta44LFB7dvxjN01wun_IkCExLt5qi6IR8jQr_MBpO8GEsh0kKp9VBxxq_ilYUA.jpg",
     "link": "http://meiac.es/turbulence/archive/Works/1year/"
   },
   {
@@ -1254,7 +1254,7 @@
     "artist": "John F. Simon Jr.",
     "year": "2002",
     "location": "USA",
-    "image": "https://www.guggenheim.org/wp-content/uploads/2002/01/2002.16_ph_web-1.jpg",
+    "image": "images/2002.16_ph_web-1.jpg",
     "link": "https://www.guggenheim.org/video/john-f-simon-jr-interacts-with-unfolding-object"
   },
   {
@@ -1270,7 +1270,7 @@
     "artist": "Ken Rinaldo",
     "year": "2000",
     "location": "USA",
-    "image": "https://www.kenrinaldo.com/wp-content/uploads/2015/06/autopo_interaction_shot-.jpg",
+    "image": "images/autopo_interaction_shot-.jpg",
     "link": "https://www.kenrinaldo.com/portfolio/autopoiesis/"
   },
   {
@@ -1284,7 +1284,7 @@
     "artist": "W. Bradford Paley",
     "year": "2002",
     "location": "USA",
-    "image": "https://didi.co/wp-content/uploads/2020/03/TextArc.png",
+    "image": "images/TextArc.jpg",
     "link": "https://history.siggraph.org/artwork/w-bradford-paley-textarc/"
   },
   {
@@ -1299,7 +1299,7 @@
     "artist": "George Legrady",
     "year": "2001",
     "location": "USA",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVDed7--9PSXf52dOd5cuWh1h6CP4JLtjpw&s",
+    "image": "images/pocket.jpg",
     "link": "https://vimeo.com/44602943"
   },
   {
@@ -1314,7 +1314,7 @@
     "artist": "Warren Sack",
     "year": "2000",
     "location": "USA",
-    "image": "https://web.media.mit.edu/~lieber/IUI/Sack/cm0.gif",
+    "image": "images/cm0.jpg",
     "link": "https://web.media.mit.edu/~lieber/IUI/Sack/Sack.html"
   },
   {
@@ -1345,7 +1345,7 @@
     "artist": "Feng Mengbo",
     "year": "2002",
     "location": "China",
-    "image": "https://photography-now.com/images/Hauptbilder/gross/T03262.jpg",
+    "image": "images/T03262.jpg",
     "link": "http://universes-in-universe.de/car/documenta/11/brau/s-feng.htm"
   },
   {
@@ -1360,7 +1360,7 @@
     "artist": "Josh On",
     "year": "2001",
     "location": "USA",
-    "image": "https://arteedadsilicio.com/wp-content/uploads/2016/02/2001-josh-on-they-rule.jpg",
+    "image": "images/2001-josh-on-they-rule.jpg",
     "link": "https://www.theyrule.net/"
   },
   {
@@ -1375,7 +1375,7 @@
     "artist": "Usman Haque",
     "year": "2004",
     "location": "UK",
-    "image": "https://haque.co.uk/work/sky-ear/img/nmm/dr/0409SK75.jpg",
+    "image": "images/0409SK75.jpg",
     "link": "https://haque.co.uk/work/sky-ear/"
   },
   {
@@ -1389,7 +1389,7 @@
     "artist": "Aram Bartholl",
     "year": "2010",
     "location": "Germany",
-    "image": "https://arambartholl.com/wp-content/uploads/2018/03/aram_bartholl_dead_drops_2010_01-e1526384395486-1800x1200.jpg",
+    "image": "images/aram_bartholl_dead_drops_2010_01-e1526384395486-1800x1200.jpg",
     "link": "https://arambartholl.com/dead-drops/"
   },
   {
@@ -1404,7 +1404,7 @@
     "artist": "Jenny Marketou",
     "year": "2003",
     "location": "USA",
-    "image": "https://www.thing.net/~jmarketo/installation_2005/t_FSPinstallationview2.jpg",
+    "image": "images/t_FSPinstallationview2.jpg",
     "link": "https://www.thing.net/~jmarketo/FlyingSpyPotatoes2005.shtml"
   },
   {
@@ -1420,7 +1420,7 @@
     "artist": "Michelle Teran",
     "year": "2003",
     "location": "Canada",
-    "image": "https://archive.transmediale.de/sites/default/files/public/styles/6col/public/node/artwork/field_artwork_images/21050/teran_image_03jpg.jpg",
+    "image": "images/teran_image_03jpg.jpg",
     "link": "https://archive.transmediale.de/content/life-a-users-manual"
   },
   {
@@ -1435,7 +1435,7 @@
     "artist": "Ricardo Miranda Zúñiga",
     "year": "2003",
     "location": "USA",
-    "image": "https://ambriente.com/wifi/images/speaker1.jpg",
+    "image": "images/speaker1.jpg",
     "link": "https://ambriente.com/wifi/index.php"
   },
   {
@@ -1449,7 +1449,7 @@
     "artist": "Annina Rüst",
     "year": "2006",
     "location": "Germany",
-    "image": "https://anninaruest.com/a/sinister-network/images/1.jpg",
+    "image": "images/1.jpg",
     "link": "https://anninaruest.com/a/sinister-network/index.html"
   },
   {
@@ -1464,7 +1464,7 @@
     "artist": "Eteam",
     "year": "2007",
     "location": "USA",
-    "image": "https://www.meineigenheim.org/portfolio/wp-content/uploads/2019/09/dump_sketch1-300x184.jpg",
+    "image": "images/dump_sketch1-300x184.jpg",
     "link": "https://www.meineigenheim.org/portfolio/?p=106"
   },
   {
@@ -1478,7 +1478,7 @@
     "artist": "Eduardo Kac",
     "year": "2000",
     "location": "France",
-    "image": "https://www.ekac.org/albagreen-cutout.png",
+    "image": "images/albagreen-cutout.jpg",
     "link": "https://www.ekac.org/gfpbunny.html"
   },
   {
@@ -1492,7 +1492,7 @@
     "artist": "David Hockney",
     "year": "2008",
     "location": "United Kingdom",
-    "image": "https://static-assets.artlogic.net/w_850,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1680/usr/images/feature_panels/image/items/3a/3af863515feb4eb39e8d19470a038032/dh60-david-hockney-a-bigger-green-valley-.png",
+    "image": "images/dh60-david-hockney-a-bigger-green-valley-.jpg",
     "link": "https://geistmc.com/our-artists/david-hockney/computer-drawings/"
   },
   {
@@ -1507,7 +1507,7 @@
     "artist": "Random International",
     "year": "2009",
     "location": "United Kingdom",
-    "image": "https://images.squarespace-cdn.com/content/v1/663ca532b3e3797d82159fe2/1d4544ce-6f17-4f58-b05f-4c35e64deac1/YOU+FADE+TO+LIGHT%2C+2009++.jpeg?format=1500w",
+    "image": "images/YOU.jpg",
     "link": "https://www.random-international.com/you-fade-to-light"
   },
   {
@@ -1516,7 +1516,7 @@
     "artist": "Daniel Canogar",
     "year": "2017",
     "location": "Pamplona, Spain",
-    "image": "https://www.danielcanogar.com/contenido/proyectos/canogar-ManuelCastells.JPG",
+    "image": "images/canogar-ManuelCastells.jpg",
     "link": "https://www.danielcanogar.com/es/obra/sikka-ingentium",
     "media_type": "videoinstalación",
     "description": "Una videoinstalación escultórica compuesta por 2,400 DVDs reciclados sobre los cuales se proyecta su propio contenido. La obra fusiona el cine con su medio físico, acompañada de una banda sonora construida a partir del audio superpuesto de todos los segmentos reproduciéndose simultáneamente.",
@@ -1531,7 +1531,7 @@
     "artist": "Aaron Koblin",
     "year": "2006",
     "location": "USA",
-    "image": "https://www.aaronkoblin.com/work/thumbImages/sheep.jpg",
+    "image": "images/sheep.jpg",
     "link": "https://www.youtube.com/watch?v=3Mmb5aSscck",
     "media_type": "net art / visualización de datos",
     "description": "Un proyecto de arte de datos en el que 10,000 ovejas fueron dibujadas por trabajadores anónimos contratados a través de Amazon Mechanical Turk por $0.02 cada una. Las imágenes resultantes se compilaron en una visualización a gran escala que plantea preguntas sobre el trabajo y la autoría colectiva en la era de la información.",
@@ -1546,7 +1546,7 @@
     "artist": "Beeple (Mike Winkelmann)",
     "year": "2021",
     "location": "South Carolina, USA",
-    "image": "https://static.wixstatic.com/media/a64726_8b0e3cb2371c4d58ab569c6a5d521719~mv2.jpg",
+    "image": "images/a64726_8b0e3cb2371c4d58ab569c6a5d521719~mv2.jpg",
     "link": "https://www.beeple-crap.com/viewing",
     "media_type": "NFT / imagen digital",
     "description": "Un compuesto de 5,000 imágenes digitales realizadas una por día desde 2007 hasta 2021. Vendida como NFT en Christie's, se convirtió en una de las obras de arte digitales más caras jamás subastadas.",
@@ -1560,7 +1560,7 @@
     "artist": "Brian Eno",
     "year": "2006",
     "location": "Worldwide",
-    "image": "https://proyectoidis.org/wp-content/uploads/2006/05/77millionpaint-768x461.jpg",
+    "image": "images/77millionpaint-768x461.jpg",
     "link": "https://www.instituteforpublicart.org/case-studies/77-million-paintings/",
     "media_type": "instalación de software generativo",
     "description": "Una instalación de software generativo que combina aleatoriamente alrededor de 300 diapositivas digitales hechas a mano con música ambiental en capas, produciendo una secuencia efectivamente infinita de pinturas audiovisuales únicas. Ningún espectador ve la misma obra dos veces.",
@@ -1576,7 +1576,7 @@
     "artist": "Cory Arcangel",
     "year": "2002",
     "location": "New York, USA",
-    "image": "https://coryarcangel.com/assets/imgs/i-shot-andy-2002-002-screen-shot-5-database-ih.jpg",
+    "image": "images/i-shot-andy-2002-002-screen-shot-5-database-ih.jpg",
     "link": "https://coryarcangel.com/works/2002-002-i-shot-andy-warhol",
     "media_type": "cartucho de videojuego modificado",
     "description": "Un hack de ROM del juego de NES Hogan's Alley en el que los objetivos gánster son reemplazados con Andy Warhol, y los inocentes con el Papa, Flavor Flav y el Coronel Sanders. Tanto los gráficos como la lógica del programa están modificados directamente en el binario compilado.",
@@ -1592,7 +1592,7 @@
     "artist": "Refik Anadol",
     "year": "2022",
     "location": "New York, USA",
-    "image": "https://refikanadol.com/wp-content/uploads/2023/03/CB.jpg",
+    "image": "images/CB.jpg",
     "link": "https://refikanadol.com/works/unsupervised/",
     "media_type": "instalación generativa con IA",
     "description": "Una instalación generativa en tiempo real entrenada con 138,151 imágenes de la colección digitalizada del MoMA usando StyleGAN2 ADA. La IA navega continuamente un espacio latente de 1024 dimensiones, produciendo un flujo interminable de combinaciones de imágenes alucinatorias.",
@@ -1608,7 +1608,7 @@
     "artist": "Reporters Without Borders (RSF) & BlockWorks",
     "year": "2020",
     "location": "Global (Minecraft server)",
-    "image": "https://www.uncensoredlibrary.com/version/1773306198268/static/image/hero-background-small.jpg",
+    "image": "images/hero-background-small.jpg",
     "link": "https://www.uncensoredlibrary.com/en",
     "media_type": "mundo virtual / net art",
     "description": "Una biblioteca neoclásica virtual construida dentro de Minecraft para distribuir periodismo censurado en países donde los medios independientes están bloqueados pero el juego es de libre acceso. Desde su lanzamiento en 2020 ha sido visitada más de un millón de veces.",
@@ -1624,7 +1624,7 @@
     "artist": "Luis Toledo",
     "year": "2000",
     "location": "Spain",
-    "image": "https://payload.cargocollective.com/1/2/95609/14482812/Laprisamata_DraconDrieneOnline_2000_c.jpg",
+    "image": "images/Laprisamata_DraconDrieneOnline_2000_c.jpg",
     "link": "https://laprisamata.com/",
     "media_type": "serie de imágenes digitales",
     "description": "Una serie de imágenes digitales que explora composiciones surrealistas que mezclan iconografía mitológica con estéticas digitales contemporáneas.",
@@ -1638,7 +1638,7 @@
     "artist": "Sasha Kojjio",
     "year": "2023",
     "location": "Tseh Space (exhibition NON SEMANTIC)",
-    "image": "https://thb.tildacdn.com/tild3339-6261-4561-b739-313932383739/-/resize/504x/Sasha_Kojjio_-_seman.jpg",
+    "image": "images/Sasha_Kojjio_-_seman.jpg",
     "link": "https://sashakojjio.com/semanticfailure",
     "media_type": "instalación generativa",
     "description": "Una instalación generativa que inunda al espectador con texto en cascada hasta que las palabras pierden significado y los glifos se convierten en pura forma visual.",
@@ -1652,7 +1652,7 @@
     "artist": "Amanda Ghassaei",
     "year": "2017",
     "location": "USA",
-    "image": "https://amandaghassaei.com/projects/origami_simulator/images/wide_1200.jpg",
+    "image": "images/wide_1200.jpg",
     "link": "https://amandaghassaei.com/projects/origami_simulator/",
     "media_type": "software interactivo / simulación",
     "description": "Una aplicación WebGL que simula cómo se pliega cualquier patrón de dobleces de origami resolviendo todos los pliegues simultáneamente con un solucionador dinámico acelerado por GPU. También soporta un modo VR interactivo para la manipulación directa de la malla de plegado.",
@@ -1668,7 +1668,7 @@
     "artist": "Joanie Lemercier & James Ginzburg",
     "year": "2014",
     "location": "Montreal, Canada (SAT Satosphere)",
-    "image": "https://i0.wp.com/joanielemercier.com/wp-content/uploads/2018/11/FORET-_MG_7296_sebastien_roy-940_SMALL-e1549658139290.jpg",
+    "image": "images/FORET-_MG_7296_sebastien_roy-940_SMALL-e1549658139290.jpg",
     "link": "https://joanielemercier.com/nimbes/",
     "media_type": "instalación audiovisual en domo",
     "description": "Una pieza audiovisual de 15 minutos para entornos de cúpula. Utilizando un escaneo láser 3D de un bosque como fuente visual, la obra explora la observación, la cosmogonía y la individualidad a través de sonido e imagen inmersivos.",
@@ -1684,7 +1684,7 @@
     "artist": "Arcangelo Constantini",
     "year": "1997",
     "location": "Mexico",
-    "image": "https://www.bakteria.org/logo/Logo2.png",
+    "image": "images/Logo2.jpg",
     "link": "https://www.bakteria.org/",
     "media_type": "net art / software generativo",
     "description": "Un experimento expandido de Net.Art que explora la multiplicidad, simbiosis, conciencia y el surgimiento creativo de la forma a través de un proceso de dibujo generativo automático, usando un neuro-algoritmo que transforma trazos a mano alzada en organismos antropomórficos únicos e irrepetibles.",
@@ -1699,7 +1699,7 @@
     "artist": "Simon Stålenhag",
     "year": "2014",
     "location": "Sweden",
-    "image": "https://www.simonstalenhag.se/tftl/2.jpg",
+    "image": "images/2.jpg",
     "link": "https://www.simonstalenhag.se/tftl.html",
     "media_type": "pintura digital / libro ilustrado",
     "description": "Una serie de pinturas digitales que representan un paisaje sueco retrofuturista donde máquinas colosales y tecnologías extrañas coexisten con la vida rural cotidiana. Publicada como libro ilustrado en 2014, posteriormente inspiró una serie de televisión.",
@@ -1713,7 +1713,7 @@
     "artist": "Masaki Fujihata",
     "year": "2009",
     "location": "Japan",
-    "image": "https://www.kunstuni-linz.at/fileadmin/_processed_/e/7/csm_0517_PrivateRoomTV2_7f95370d4b.jpg",
+    "image": "images/csm_0517_PrivateRoomTV2_7f95370d4b.jpg",
     "link": "https://www.youtube.com/watch?v=gKFuyWYEjUs",
     "media_type": "escultura de luz / instalación",
     "description": "Una escultura de luz de 200 tubos fluorescentes controlados por PC e impulsados por metraje editado de programas de televisión de principios de los años 60. La instalación funciona como un televisor de 200 píxeles, traduciendo la memoria de transmisión en luz arquitectónica.",
@@ -1729,7 +1729,7 @@
     "artist": "Unknown",
     "year": "2007",
     "location": "Unknown",
-    "image": "https://lhohq.info/atlantic-research-corporation-and-the-ufo-phenomenon.jpg",
+    "image": "images/atlantic-research-corporation-and-the-ufo-phenomenon.jpg",
     "link": "https://lhohq.info/",
     "media_type": "net art / web art",
     "description": "Un sitio web anónimo y extenso de páginas interconectadas llenas de imágenes crípticas, texto conspiratorio, estéticas glitch y simbolismo oculto, activo desde al menos 2007. Su autoría permanece desconocida y se sitúa en la intersección del arte de internet, ARG y folclore digital.",
@@ -1744,7 +1744,7 @@
     "artist": "Nicolai Leimer",
     "year": "2025",
     "location": "Unknown",
-    "image": "https://futoikarasu.com/wp-content/uploads/2025/03/image-21.png",
+    "image": "images/image-21.jpg",
     "link": "https://futoikarasu.com/2025/03/24/angel-engine-y-el-uso-de-la-ia/",
     "media_type": "serie de videos generados con IA / arte en redes sociales",
     "description": "Una serie viral de videos de formato corto en TikTok e Instagram que combina imágenes generadas con Midjourney con narración para contar la historia de horror analógico. La obra explora plataformas de redes sociales y mitologías colectivas en línea.",
@@ -1776,7 +1776,7 @@
     "artist": "Ryoji Ikeda",
     "year": "2006",
     "location": "Japan / Worldwide",
-    "image": "https://www.ryojiikeda.com/data/work/concert-datamatics-03.jpg",
+    "image": "images/concert-datamatics-03.jpg",
     "link": "https://www.ryojiikeda.com/project/datamatics",
     "media_type": "instalación audiovisual / concierto",
     "description": "Un proyecto de larga duración que explora el potencial estético de los datos puros a través de conciertos audiovisuales, instalaciones y publicaciones.",
@@ -1792,7 +1792,7 @@
     "artist": "Chris Milk",
     "year": "2012",
     "location": "San Francisco, USA",
-    "image": "https://images.squarespace-cdn.com/content/v1/589120929f7456770050ac7f/1517452746029-1NCUC12R7YR14FBROLR5/483820630.jpg",
+    "image": "images/483820630.jpg",
     "link": "http://milk.co/treachery",
     "media_type": "instalación interactiva",
     "description": "Un tríptico interactivo a gran escala en el que tres sensores Kinect capturan las siluetas corporales de los visitantes y las proyectan en paneles de 30 pies, donde bandadas de pájaros 3D disuelven, atacan o transforman las sombras en alas.",
@@ -1808,7 +1808,7 @@
     "artist": "Christian Marclay",
     "year": "2010",
     "location": "New York, USA (MoMA) / Worldwide",
-    "image": "https://rednacionaldearte.com/noticias/wp-content/uploads/2023/05/Christian-Marclay-The-Clock-2010-a3-copiemodif1-scaled-2-768x514.jpg",
+    "image": "images/Christian-Marclay-The-Clock-2010-a3-copiemodif1-scaled-2-768x514.jpg",
     "link": "https://www.moma.org/calendar/exhibitions/5746",
     "media_type": "videoinstalación",
     "description": "Un montaje de video de 24 horas ensamblado a partir de miles de clips de cine y televisión que representan relojes, cada uno sincronizado con la hora real del día cuando se visualiza. La obra es simultáneamente una historia del cine y un reloj funcional.",
@@ -1823,7 +1823,7 @@
     "artist": "Pipilotti Rist",
     "year": "2025",
     "location": "Beijing, China (UCCA Center for Contemporary Art)",
-    "image": "https://ucca.org.cn/storage/public/images/3/e/2/d473ea-23a9e7-006fe1.banner.jpg",
+    "image": "images/d473ea-23a9e7-006fe1.banner.jpg",
     "link": "https://ucca.org.cn/en/exhibition/pipilotti-rist/",
     "media_type": "videoinstalación",
     "description": "Una videoinstalación multicanal específica del sitio que transforma el Gran Salón de UCCA en un cosmos inmersivo de telas colgantes similares a la piel sobre las cuales se proyectan videos en bucle y una banda sonora encargada a la música Surma.",
@@ -1839,7 +1839,7 @@
     "artist": "DiMoDA (collective) / various artists",
     "year": "2018",
     "location": "New York, USA (3LD Art and Tech Center) / Virtual Reality",
-    "image": "http://static1.squarespace.com/static/58a4919d414fb5ca22896453/58a638c359cc68ff9814a734/5b0249f42b6a285b39d09403/1526877266674/Capture4.PNG?format=1500w",
+    "image": "images/Capture4.jpg",
     "link": "https://dimoda.art/upcoming-exhibitions/2018/5/24/opening-dimoda-30-talismans-74l15m4n5-mind-body-dualism-mndbdy",
     "media_type": "instalación en realidad virtual / exposición",
     "description": "Museo Digital de Arte Digital (DiMoDA), una plataforma de museo nativa de VR.",
@@ -1855,7 +1855,7 @@
     "artist": "Max de Esteban",
     "year": "2019",
     "location": "Barcelona, Spain (MACBA Collection)",
-    "image": "https://d2zy2h1755x359.cloudfront.net/public/DigitalAsset/294942/f7dec4ef491bdb149104164f7ba5e52f/full/large/0/default.jpg",
+    "image": "images/aforest.jpg",
     "link": "https://www.macba.cat/es/obra/r5916-a-forest/",
     "media_type": "video monocanal",
     "description": "Un video de 23 minutos que deambula por un bosque invernal sin un camino predeterminado, acompañado de un monólogo de un gestor de fondos de capital de riesgo de IA que cuestiona la realidad de lo que vemos.",
