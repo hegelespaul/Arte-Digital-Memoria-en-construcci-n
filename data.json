@@ -1864,5 +1864,302 @@
       "video",
       "simulación"
     ]
+  },
+  {
+    "id": "their_dreams",
+    "title": "Their Dreams",
+    "artist": "Adel Abidin",
+    "year": 2011,
+    "media_type": "instalación multimedia",
+    "description": "Instalación audiovisual basada en dibujos realizados por niños de zonas en conflicto, transformados en animaciones digitales proyectadas en gran formato.",
+    "tags": [
+      "video",
+      "instalación"
+    ],
+    "location": "Sharjah, Emiratos Árabes Unidos",
+    "image": "images/their-dreams.jpg",
+    "link": "https://adelabidin.com/works/their-dreams/"
+  },
+  {
+    "id": "pulse_room",
+    "title": "Pulse Room",
+    "artist": "Rafael Lozano-Hemmer",
+    "year": 2010,
+    "media_type": "instalación interactiva",
+    "description": "Instalación interactiva donde focos de luz reproducen el ritmo cardiaco de los visitantes.",
+    "tags": [
+      "instalación",
+      "interactivo",
+      "sonido"
+    ],
+    "location": "Ciudad de México, México",
+    "image": "images/pulse.jpg",
+    "link": "https://lozano-hemmer.com/pulse_room.php"
+  },
+  {
+    "id": "agua",
+    "title": "Agua",
+    "artist": "Raquel Kogan, Rejane Cantoni y Leonardo Crescenti",
+    "year": null,
+    "media_type": "instalación interactiva",
+    "description": "Instalación digital interactiva que utiliza proyecciones y tecnología audiovisual para crear una experiencia inmersiva inspirada en el comportamiento del agua.",
+    "tags": [
+      "instalación",
+      "interactivo",
+      "video"
+    ],
+    "location": "São Paulo, Brasil",
+    "image": "images/water.jpg",
+    "link": "https://2018.kikk.be/en/program/kikk-in-town-1/leonardo-crescenti-raquel-kogan-and-rejane-cantoni"
+  },
+  {
+    "id": "scars_2020",
+    "title": "Scars",
+    "artist": "Iván Abreu",
+    "year": 2020,
+    "media_type": "AV Concert",
+    "description": "Concierto audiovisual basado en sintetizadores impulsados por píxeles y live cinema coding.",
+    "tags": [
+      "performance",
+      "sonido",
+      "video",
+      "software"
+    ],
+    "location": "Online Event",
+    "image": "images/scars.jpg",
+    "link": "https://ivanabreu.studio/scars-2020/"
+  },
+  {
+    "id": "dirigir_nubes",
+    "title": "Dirigir las Nubes",
+    "artist": "Glenda León",
+    "year": 2017,
+    "media_type": "video art",
+    "description": "Video monocal. Según un reconocido científico de física cuántica, está comprobado que, habiendo logrado el grado de concentración y voluntad necesarios cualquier individuo puede llegar a dirigir las nubes",
+    "tags": [
+      "video"
+    ],
+    "location": "La Habana, Cuba",
+    "image": "images/dirigirnubes.jpeg",
+    "link": "https://www.glenda-leon.com/video-art/"
+  },
+  {
+    "id": "border_tuner",
+    "title": "Border Tuner",
+    "artist": "Rafael Lozano-Hemmer",
+    "year": 2019,
+    "media_type": "instalación interactiva",
+    "description": "Instalación participativa que conecta personas de ambos lados de la frontera mediante luz, sonido y sensores en tiempo real.",
+    "tags": [
+      "instalación",
+      "interactivo",
+      "sonido"
+    ],
+    "location": "Ciudad Juárez, México / El Paso, Estados Unidos",
+    "image": "images/border-tuner.jpg",
+    "link": "https://www.lozano-hemmer.com/border_tuner.php"
+  },
+  {
+    "id": "neural_zoo",
+    "title": "Neural Zoo",
+    "artist": "Sofía Crespo",
+    "year": 2018,
+    "media_type": "imagen generativa",
+    "description": "Obra visuales creadas mediante inteligencia artificial que explora criaturas imaginarias inspiradas en la biología y la evolución.",
+    "tags": [
+      "IA",
+      "imagen digital",
+      "simulación"
+    ],
+    "location": "Buenos Aires, Argentina",
+    "image": "images/neural-zoo.jpg",
+    "link": "https://sofiacrespo.com/neural-zoo/"
+  },
+  {
+    "id": "have_you_seen_her",
+    "title": "Have You Seen Her…?",
+    "artist": "Dora Bartilotti",
+    "year": 2022,
+    "media_type": "instalación interactiva",
+    "description": "Obra interactiva con textiles electrónicos y RFID que aborda la desaparición forzada en México.",
+    "tags": [
+      "instalación",
+      "interactivo",
+      "software"
+    ],
+    "location": "Ciudad de México, México",
+    "image": "images/la-has-visto.jpg",
+    "link": "https://dorabartilotti.com/"
+  },
+  {
+    "id": "deepstructures",
+    "title": "deepStructures",
+    "artist": "Marianne Teixidó",
+    "year": 2022,
+    "media_type": "performance audiovisual",
+    "description": "Composición sonora basada en redes neuronales de audio y exploraciones éticas de la inteligencia artificial.",
+    "tags": [
+      "performance",
+      "sonido",
+      "video",
+      "IA",
+      "software"
+    ],
+    "location": "Ciudad de México, México",
+    "image": "images/deep-structures.png",
+    "link": "https://www.youtube.com/watch?v=8gIit8QgeBE&t=210s"
+  },
+  {
+    "id": "parasitos_urbanos",
+    "title": "Parásitos Urbanos",
+    "artist": "Gilberto Esparza",
+    "year": 2007,
+    "media_type": "instalación robótica y arte interactivo",
+    "description": "Organismos artificiales creados con desechos tecnológicos que interactúan con entornos urbanos.",
+    "tags": [
+      "robótica",
+      "interactivo",
+      "sonido",
+      "instalación"
+    ],
+    "location": "Ciudad de México, México",
+    "image": "images/MRN%CC%83-1-978x652.jpg",
+    "link": "https://gilbertoesparza.net/portfolio/parasitos-urbanos/"
+  },
+  {
+    "id": "gen",
+    "title": "GEN.",
+    "artist": "Omar Lavalle",
+    "year": 2022,
+    "media_type": "arte generativo",
+    "description": "Colección de obras audiovisuales generativas desarrolladas mediante código y sistemas autónomos.",
+    "tags": [
+      "software",
+      "sonido",
+      "video",
+      "simulación"
+    ],
+    "location": "Lima, Perú",
+    "image": "images/GEN_0118.6.jpg",
+    "link": "https://omarlavalle.com/8062-2/"
+  },
+  {
+    "id": "cycles",
+    "title": "Cycles",
+    "artist": "NOHM Digital Art, Leslie García, José Carlos Solís",
+    "year": 2015,
+    "media_type": "instalación audiovisual generativa",
+    "description": "Instalación de arte digital con programación visual y proyecciones inmersivas inspiradas en patrones cíclicos.",
+    "tags": [
+      "instalación",
+      "video",
+      "software",
+      "simulación"
+    ],
+    "location": "Ciudad de México, México",
+    "image": "images/cocolab.jpg",
+    "link": "https://mxc.com.mx/2015/11/21/cycles-la-instalacion-de-arte-digital-mexicano-que-viajara-hasta-japon/"
+  },
+  {
+    "id": "arkawall",
+    "title": "ARKAWALL",
+    "artist": "Biopus (Emiliano Causa y Matías Romero Costas)",
+    "year": 2018,
+    "media_type": "instalación interactiva de videomapping",
+    "description": "Videomapping interactivo que convierte fachadas arquitectónicas en videojuegos gigantes.",
+    "tags": [
+      "interactivo",
+      "instalación",
+      "videojuego",
+      "video",
+      "software"
+    ],
+    "location": "Buenos Aires, Argentina",
+    "image": "images/arkawall2.jpg",
+    "link": "https://biopus.ar/arte/arkawall.html"
+  },
+  {
+    "id": "avispish",
+    "title": "Avispish",
+    "artist": "Joaquina Salgado",
+    "year": 2023,
+    "media_type": "instalación",
+    "description": "Obra multipantalla con cabezas animadas creadas a partir de capturas faciales y narrativa sonora fragmentada.",
+    "tags": [
+      "IA",
+      "instalación",
+      "video"
+    ],
+    "location": "Berlín, Alemania",
+    "image": "images/perfil.jpg",
+    "link": "https://joaquinasalgado.com/avispish"
+  },
+  {
+    "id": "fluido_obj",
+    "title": "Fluido.obj",
+    "artist": "Joaquina Salgado",
+    "year": 2019,
+    "media_type": "VR installation",
+    "description": "Instalación de realidad virtual que explora paisajes futuristas de memoria y nostalgia.",
+    "tags": [
+      "realidad virtual",
+      "interactivo",
+      "instalación",
+      "3D"
+    ],
+    "location": "MUTEK Argentina / MUTEK Montréal / Mirage Festival",
+    "image": "images/highresscreenshot00014.jpg",
+    "link": "https://joaquinasalgado.com/fluido-obj"
+  },
+  {
+    "id": "sola",
+    "title": "Sola",
+    "artist": "Agustina Isidori",
+    "year": 2016,
+    "media_type": "videojuego experimental / instalación interactiva",
+    "description": "Videojuego experimental que explora el acoso callejero y la vulnerabilidad femenina mediante diseño sonoro inmersivo.",
+    "tags": [
+      "videojuego",
+      "interactivo",
+      "sonido",
+      "simulación"
+    ],
+    "location": "Buenos Aires, Argentina",
+    "image": "images/SOLA+II_3+copy.jpg",
+    "link": "https://www.agustinaisidori.com/sola"
+  },
+  {
+    "id": "the_human_after",
+    "title": "The Human After",
+    "artist": "Anni Garza Lau",
+    "year": 2019,
+    "media_type": "instalación interactiva / animación 3D",
+    "description": "Ecosistema virtual post-humano donde tecnologías autónomas continúan operando tras la desaparición de la humanidad.",
+    "tags": [
+      "3D",
+      "simulación",
+      "instalación",
+      "interactivo"
+    ],
+    "location": "Ciudad de México, México",
+    "image": "images/Preview2-750x343.jpg",
+    "link": "https://annigarzalau.com/the-human-after.html"
+  },
+  {
+    "id": "baby_agi",
+    "title": "Baby AGI",
+    "artist": "Moises Sanabria",
+    "year": 2023,
+    "media_type": "instalación de medios mixtos con animación generativa",
+    "description": "Instalación que simboliza las primeras etapas de la inteligencia artificial general mediante un cochecito inteligente y robótica.",
+    "tags": [
+      "IA",
+      "instalación",
+      "robótica",
+      "video"
+    ],
+    "location": "Miami, Estados Unidos",
+    "image": "images/moisesdsanabria-babyagi_ewquhe.jpg",
+    "link": "https://www.moises.tech/art/baby_agi"
   }
 ]
