@@ -2023,7 +2023,7 @@
       "instalación"
     ],
     "location": "Ciudad de México, México",
-    "image": "images/MRN%CC%83-1-978x652.jpg",
+    "image": "images/parasitos.jpg",
     "link": "https://gilbertoesparza.net/portfolio/parasitos-urbanos/"
   },
   {
@@ -2167,7 +2167,8 @@
     "media_type": "Concierto AudioVisual",
     "description": "Es un concierto AudioVisual el cual se va codificando en directo con ayuda de animaciones de videojuegos y música algorítmica. Esta obra busca crear historias por medio de la codificación en vivo ",
     "tags": [
-      "videojuego, performance"
+      "videojuego", 
+      "performance"
     ],
     "title": "AUTOConstrucción",
     "artist": "Ivan Abreu, CNDSD",
@@ -2181,7 +2182,8 @@
     "media_type": "Instalación, IA generativa",
     "description": "Esta obra audiovisual se apoya de la generación de imágenes con IA y juguetes FURBY modificados para generar música, esta obra aborda la infancia y el sueño de muchos niños de tener algún juguete el cual nunca pudieron tener o recibieron una copia pirata del mismo, en cambio un niño en la actualidad prefiere recibir una tableta antes que un juguete ",
     "tags": [
-      "instalación, AI"
+      "instalación",
+      "IA"
     ],
     "title": "Furbot",
     "artist": "CNDSD",
@@ -2189,5 +2191,266 @@
     "location": "Colombia, Bogota",
     "image": "images/furbot.jpg",
     "link": "https://www.cndsd.xyz/artwork/furbot"
+  },
+    {
+    "id": "Pizza_Poem",
+    "media_type": "net_art",
+    "tags": [
+      "red",
+      "interactivo",
+      "software"
+    ],
+    "title": "Pizza_Poem",
+    "artist": "Fabiola_Larios",
+    "year": "2023",
+    "location": "Miami, EUA",
+    "image": "images/Pizza_Hut_logo.jpg",
+    "link": "https://pizzapoem.net/",
+    "description": "Pieza experimental de net art que entrega versos poéticos fragmentados vía SMS, combinando aleatoriedad y conexión personal a través de la distancia tecnológica."
+  },
+  {
+    "id": "carne_y_arena",
+    "media_type": "instalación inmersiva de realidad virtual",
+    "tags": [
+      "realidad virtual",
+      "instalación"
+    ],
+    "title": "Carne y Arena",
+    "artist": "Alejandro G. Iñárritu",
+    "year": "2017",
+    "location": "Ciudad de México, México",
+    "image": "images/carne-y-arena.jpg",
+    "link": "https://www.fundacionunam.org.mx/donde-paso/carne-y-arena-realidad-virtual-de-la-travesia-de-los-migrantes/",
+    "description": "Experiencia inmersiva en VR que recrea el cruce fronterizo entre México y Estados Unidos desde la perspectiva de personas migrantes."
+  },
+  {
+    "id": "obispado-mapping-rimiyoho",
+    "media_type": "video mapping / performance en vivo",
+    "tags": [
+      "instalación",
+      "performance",
+      "video"
+    ],
+    "title": "Rimiyoho Live Mapping at Obispado",
+    "artist": "Fernando Sica (Rimiyoho)",
+    "year": "2025",
+    "location": "Monterrey, México",
+    "image": "images/52f1cc_bae8bdf675c7467a8180e6c78d2d23fe~mv2.jpg",
+    "link": "https://es.rimiyoho.com/obispado-mapping-rimiyoho",
+    "description": "Atmósferas visuales en tiempo real proyectadas sobre la fachada del Museo del Obispado, creadas con ilustración y animación en iPad para acompañar un concierto de música clásica."
+  },
+  {
+    "id": "rimaymapping-aruma",
+    "media_type": "instalación audiovisual / video mapping",
+    "tags": [
+      "instalación",
+      "sonido",
+      "video"
+    ],
+    "title": "RIMAYMapping",
+    "artist": "Sandra De Berduccy (Aruma)",
+    "year": "2011",
+    "location": "Cochabamba, Bolivia",
+    "image": "images/2deberduccy.jpg",
+    "link": "https://sandradeberduccy.com/proyectos-2/texto-textil-codigo/rimaymapping/",
+    "description": "Proyección de tocapus —escritura textil quechua— sobre telares andinos blancos, con audio basado en grabaciones de radios en quechua de ciudades bolivianas."
+  },
+  {
+    "id": "From_Barragan_to_the_desert",
+    "media_type": "imagen generada con IA",
+    "tags": [
+      "IA",
+      "imagen digital",
+      "imagen"
+    ],
+    "title": "From Barragán to the desert",
+    "artist": "Juan Carlos Beltrán",
+    "year": "2025",
+    "location": "Sinaloa, México",
+    "image": "images/W09.jpg",
+    "link": "https://jc-b.mx/",
+    "description": "Colección de imágenes generadas con IA que habitan un espacio entre la memoria y el sueño, explorando lo humano dentro de lo artificial mediante diseño espacial e inmersivo."
+  },
+  {
+    "id": "carlos_serrano_reel",
+    "media_type": "c4d, motion graphics",
+    "tags": [
+      "simulación",
+      "video",
+      "3D",
+      "software"
+    ],
+    "title": "Carlos Serrano Reel",
+    "artist": "Carlos Serrano",
+    "year": "2018",
+    "location": "Bogotá, Colombia",
+    "image": "images/703876794_1280x720.jpg",
+    "link": "https://vimeo.com/261322671?fl=pl&fe=cm#t=54s",
+    "description": "Recopilación de piezas de Motion Design realizadas con Cinema 4D y Octane Render."
+  },
+  {
+    "id": "li_po_8888",
+    "media_type": "net art",
+    "tags": [
+      "red",
+      "interactivo",
+      "software"
+    ],
+    "title": "Li Po 8888",
+    "artist": "Canek Zapata Paniagua",
+    "year": "2018",
+    "location": "Ciudad de México, México",
+    "image": "images/canek.jpg",
+    "link": "http://canekzapata.net/8888/",
+    "description": "Obra digital en línea que experimenta con el lenguaje visual de internet y los medios digitales en la web."
+  },
+  {
+    "id": "cinema_lascado",
+    "media_type": "videoarte",
+    "tags": [
+      "video",
+      "imagen digital",
+      "software"
+    ],
+    "title": "Cinema Lascado",
+    "artist": "Giselle Beiguelman",
+    "year": "2010",
+    "location": "São Paulo, Brasil",
+    "image": "images/cinema-lascado.jpg",
+    "link": "https://www.desvirtual.com/cinema-lascado/",
+    "description": "Videoarte que explora las estéticas de pantallas dañadas y la visualidad tecnológica mediante dispositivos móviles y proyecciones audiovisuales."
+  },
+  {
+    "id": "ejercicios_de_aridez",
+    "media_type": "Plataforma web interactiva, cartografía digital y videoinstalación",
+    "tags": [
+      "interactivo",
+      "red",
+      "video",
+      "imagen",
+      "software"
+    ],
+    "title": "Ejercicios de aridez",
+    "artist": "Celeste Rojas Mugica",
+    "year": "2021",
+    "location": "Santiago, Chile",
+    "image": "images/ejercicio-aridez.jpg",
+    "link": "http://ejerciciosdearidez.com/",
+    "description": "Proyecto transmedia que explora memoria histórica, territorio y violencia política a partir de un geoglifo militar en el desierto chileno."
+  },
+  {
+    "id": "light_rafael_rozendaal_moma",
+    "media_type": "instalación digital / net art",
+    "tags": [
+      "instalación",
+      "red",
+      "interactivo"
+    ],
+    "title": "Light",
+    "artist": "Rafaël Rozendaal",
+    "year": "2024",
+    "location": "Nueva York, Estados Unidos",
+    "image": "images/rozendaal.jpg",
+    "link": "https://www.moma.org/calendar/exhibitions/5774",
+    "description": "Selección de sitios web del artista presentados en una pantalla de alta resolución de casi 8 metros, donde algoritmos generan animaciones abstractas en tiempo real directamente desde el navegador."
+  },
+  {
+    "id": "rain_room",
+    "media_type": "instalación interactiva",
+    "tags": [
+      "instalación",
+      "interactivo",
+      "simulación",
+      "robótica"
+    ],
+    "title": "Rain Room",
+    "artist": "Random International",
+    "year": "2012",
+    "location": "Londres, Reino Unido",
+    "image": "images/rain-room.jpg",
+    "link": "https://www.random-international.com/rain-room",
+    "description": "Instalación inmersiva en la que sensores de movimiento detienen la lluvia alrededor del espectador, creando la ilusión de caminar bajo la lluvia sin mojarse."
+  },
+  {
+    "id": "Spark_Un_Plug",
+    "media_type": "instalación",
+    "tags": [
+      "instalación",
+      "interactivo",
+      "robótica",
+      "simulación"
+    ],
+    "title": "Spark_Un_Plug",
+    "artist": "Arcangel Constantini",
+    "year": "2006-2011",
+    "location": "Puebla, México",
+    "image": "images/hqdefault.jpg",
+    "link": "https://youtu.be/Rwns0n4kuZk?si=ZiX2btQMWMviv9Xc",
+    "description": "Matriz de 300 bujías de alto voltaje que descarga electricidad sobre un bloque de hielo, activada por monedas del público. Sensores de temperatura, CO2 y humedad capturan datos en tiempo real que intervienen la obra."
+  },
+  {
+    "id": "Plataforma_Activa",
+    "media_type": "instalación",
+    "tags": [
+      "instalación",
+      "interactivo",
+      "sonido",
+      "software"
+    ],
+    "title": "Plataforma Activa",
+    "artist": "Ricardo Rendón",
+    "year": "2021",
+    "location": "Ciudad de México, México",
+    "image": "images/maxresdefault.jpg",
+    "link": "https://youtu.be/_of4KZP0A0M?si=m757L4qFCsGr7WLH",
+    "description": "Instalación escultórica sonora donde esculturas multisensoriales capturan sonido ambiental y lo procesan en tiempo real mediante síntesis modular, respondiendo al movimiento de los cuerpos en el espacio."
+  },
+  {
+    "id": "Radioterapia",
+    "media_type": "performance audiovisual",
+    "tags": [
+      "performance",
+      "sonido",
+      "video"
+    ],
+    "title": "Radioterapia",
+    "artist": "Martín Rodríguez",
+    "year": "2016",
+    "location": "Chicano",
+    "image": "images/radio-therapy.jpg",
+    "link": "https://vimeo.com/296774984?fl=pl&fe=vl",
+    "description": "Performance audiovisual que atraviesa la experiencia corporal del cáncer —quimioterapia, cirugía cerebral, parálisis y convulsión— usando sonido y video para construir un lenguaje propio de la recuperación."
+  },
+  {
+    "id": "real_life_instagram_london",
+    "media_type": "Instalación / Intervención urbana",
+    "tags": [
+      "instalación",
+      "performance",
+      "imagen"
+    ],
+    "title": "Real Life Instagram",
+    "artist": "Bruno Ribeiro",
+    "year": "2013",
+    "location": "Londres, Reino Unido",
+    "image": "images/sNQaBcD.jpg",
+    "link": "https://www.refinery29.com/en-us/2013/11/56855/real-life-instagram-bruno-ribeiro",
+    "description": "Marcos de cartón con filtros e íconos de Instagram instalados en postes de Londres, invitando a los peatones a fotografiar la ciudad a través de ellos y difuminando la experiencia física con la representación digital."
+  },
+  {
+    "id": "Excellences_and_Perfections",
+    "media_type": "Performance",
+    "tags": [
+      "performance",
+      "red",
+      "video"
+    ],
+    "title": "Excellences & Perfections",
+    "artist": "Amalia Ulman",
+    "year": "2014",
+    "location": "Los Angeles, Estados Unidos",
+    "image": "images/screen-shot-2016-06-18-at-18-03-57-2048x-q80.jpg",
+    "link": "https://artsandculture.google.com/story/excellences-perfections-preserving-social-media-with-webrecorder-rhizome/owVRTPJVh-JgJw?hl=en",
+    "description": "Performance de tres meses en redes sociales en la que Ulman encarnó el arquetipo de la \"chica hot\", examinando los mandatos de la cultura del cambio de imagen y la construcción de identidad digital."
   } 
 ]
