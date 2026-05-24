@@ -2235,7 +2235,7 @@
     "artist": "Fernando Sica (Rimiyoho)",
     "year": "2025",
     "location": "Monterrey, México",
-    "image": "images/52f1cc_bae8bdf675c7467a8180e6c78d2d23fe~mv2.jpg",
+    "image": "images/rimiyoho.jpg",
     "link": "https://es.rimiyoho.com/obispado-mapping-rimiyoho",
     "description": "Atmósferas visuales en tiempo real proyectadas sobre la fachada del Museo del Obispado, creadas con ilustración y animación en iPad para acompañar un concierto de música clásica."
   },
@@ -2270,23 +2270,6 @@
     "image": "images/W09.jpg",
     "link": "https://jc-b.mx/",
     "description": "Colección de imágenes generadas con IA que habitan un espacio entre la memoria y el sueño, explorando lo humano dentro de lo artificial mediante diseño espacial e inmersivo."
-  },
-  {
-    "id": "carlos_serrano_reel",
-    "media_type": "c4d, motion graphics",
-    "tags": [
-      "simulación",
-      "video",
-      "3D",
-      "software"
-    ],
-    "title": "Carlos Serrano Reel",
-    "artist": "Carlos Serrano",
-    "year": "2018",
-    "location": "Bogotá, Colombia",
-    "image": "images/703876794_1280x720.jpg",
-    "link": "https://vimeo.com/261322671?fl=pl&fe=cm#t=54s",
-    "description": "Recopilación de piezas de Motion Design realizadas con Cinema 4D y Octane Render."
   },
   {
     "id": "li_po_8888",

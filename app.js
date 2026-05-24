@@ -377,207 +377,207 @@ function renderTimeline() {
   const annotations = [
     {
       year: 1963,
-      text: "ASCII used for the very first time",
+      text: "ASCII usado por primera vez",
       url: "https://en.wikipedia.org/wiki/ASCII"
     },
     {
       year: 1964,
-      text: "'Understanding Media' by Marshall McLuhan",
+      text: "'Comprender los Medios de Comunicación' de Marshall McLuhan",
       url: "https://en.wikipedia.org/wiki/Understanding_Media"
     },
     {
       year: 1966,
-      text: "E.A.T. (Experiments in Art and Technology, Inc.)",
+      text: "E.A.T. (Experimentos en Arte y Tecnología, Inc.)",
       url: "https://en.wikipedia.org/wiki/Experiments_in_Art_and_Technology"
     },
     {
       year: 1967,
-      text: "Portapak, the first portable video camera",
+      text: "Portapak, la primera cámara de video portátil",
       url: "https://en.wikipedia.org/wiki/Portapak"
     },
     {
       year: 1968,
-      text: "'Cybernetic Serendipity' Exhibition",
+      text: "Exposición 'Serendipia Cibernética'",
       url: "https://en.wikipedia.org/wiki/Cybernetic_Serendipity"
     },
     {
       year: 1969,
-      text: "ARPANET, the precursor to the internet",
+      text: "ARPANET, el precursor de internet",
       url: "https://en.wikipedia.org/wiki/ARPANET"
     },
     {
       year: 1970,
-      text: "'Software' exhibition at the Jewish Museum, New York",
+      text: "Exposición 'Software' en el Museo Judío, Nueva York",
       url: "https://monoskop.org/images/3/31/Software_Information_Technology_Its_New_Meaning_for_Art_catalogue.pdf"
     },
     {
       year: 1971,
-      text: "First floppy disk by IBM",
+      text: "Primer disquete por IBM",
       url: "https://en.wikipedia.org/wiki/Floppy_disk"
     },
     {
       year: 1971,
-      text: "First email sent by Ray Tomlinson",
+      text: "Primer correo electrónico enviado por Ray Tomlinson",
       url: "https://www.computinghistory.org.uk/det/6116/first-e-mail-sent-by-ray-tomlinson/"
     },
     {
       year: 1972,
-      text: "First video game console (Magnavox Odyssey)",
+      text: "Primera consola de videojuegos (Magnavox Odyssey)",
       url: "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
     },
     {
       year: 1972,
-      text: "Project Xanadú, early interactive multimedia system by Alan Kay and Adele Goldberg at Xerox PARC",
+      text: "Proyecto Xanadú, sistema multimedia interactivo temprano de Alan Kay y Adele Goldberg en Xerox PARC",
       url: "https://www.xanadu.net/"
     },
     {
       year: 1973,
-      text: "Computer Lib/Dream Machines by Ted Nelson",
+      text: "Computer Lib/Dream Machines de Ted Nelson",
       url: "https://en.wikipedia.org/wiki/Computer_Lib/Dream_Machines"
     },
     {
       year: 1975,
-      text: "Altair 8800, the first personal computer",
+      text: "Altair 8800, la primera computadora personal",
       url: "https://en.wikipedia.org/wiki/Altair_8800"
     },
     {
       year: 1976,
-      text: "Apple Computer founded by Steve Jobs and Steve Wozniak",
+      text: "Apple Computer fundada por Steve Jobs y Steve Wozniak",
       url: "https://en.wikipedia.org/wiki/Apple_Computer"
     },
     {
       year: 1979,
-      text: "First Ars Electronica festival in Linz, Austria",
+      text: "Primer festival Ars Electronica en Linz, Austria",
       url: "https://en.wikipedia.org/wiki/Ars_Electronica"
     },
     {
       year: 1981,
-      text: "Operative system MS-DOS released by Microsoft",
+      text: "Sistema operativo MS-DOS lanzado por Microsoft",
       url: "https://en.wikipedia.org/wiki/MS-DOS"
     },
     {
       year: 1981,
-      text: "Time Magazine's 'Machine of the Year' is the Computer",
+      text: "'Máquina del Año' de la revista Time es la Computadora",
       url: "https://thisdayintechhistory.com/12/26/personal-computer-man-of-the-year/"
     },
     {
       year: 1982,
-      text: "First computer virus (Elk Cloner)",
+      text: "Primer virus informático (Elk Cloner)",
       url: "https://en.wikipedia.org/wiki/Elk_Cloner"
     },
     {
       year: 1983,
-      text: "First mobile phone (Motorola DynaTAC 8000X)",
+      text: "Primer teléfono móvil (Motorola DynaTAC 8000X)",
       url: "https://en.wikipedia.org/wiki/Motorola_DynaTAC_8000X"
     },
     {
       year: 1983,
-      text: "MIDI (Musical Instrument Digital Interface) standard established",
+      text: "Estándar MIDI (Interfaz Digital de Instrumentos Musicales) establecido",
       url: "https://en.wikipedia.org/wiki/MIDI"
     },
     {
       year: 1984,
-      text: "William Gibson's novel 'Neuromancer' published, it introduces the concept of 'cyberspace'.",
+      text: "Novela 'Neuromante' de William Gibson publicada, introduce el concepto de 'ciberespacio'",
       url: "https://en.wikipedia.org/wiki/Neuromancer"
     },
     {
       year: 1984,
-      text: "VPL Research founded by Jaron Lanier, popularizing the term 'virtual reality'",
+      text: "VPL Research fundada por Jaron Lanier, popularizando el término 'realidad virtual'",
       url: "https://en.wikipedia.org/wiki/VPL_Research"
     },
     {
       year: 1985,
-      text: "MIT Media Lab founded by Nicholas Negroponte",
+      text: "MIT Media Lab fundado por Nicholas Negroponte",
       url: "https://en.wikipedia.org/wiki/MIT_Media_Lab"
     },
     {
       year: 1986,
-      text: "PIXAR founded by Ed Catmull and Alvy Ray Smith",
+      text: "PIXAR fundada por Ed Catmull y Alvy Ray Smith",
       url: "https://en.wikipedia.org/wiki/PIXAR"
     },
     {
       year: 1987,
-      text: "Adbe Illustrator released, popularizing vector graphics",
+      text: "Adobe Illustrator lanzado, popularizando los gráficos vectoriales",
       url: "https://en.wikipedia.org/wiki/Adobe_Illustrator"
     },
     {
       year: 1988,
-      text: "First ISEA (International Symposium on Electronic Art)",
+      text: "Primer ISEA (Simposio Internacional de Arte Electrónico)",
       url: "https://en.wikipedia.org/wiki/International_Symposium_on_Electronic_Art"
     },
     {
       year: 1989,
-      text: "Tim Berners-Lee invents the World Wide Web",
+      text: "Tim Berners-Lee inventa la World Wide Web",
       url: "https://en.wikipedia.org/wiki/World_Wide_Web"
     },
     {
       year: 1989,
-      text: "ZKM Center for Art and Media founded in Karlsruhe, Germany",
+      text: "Centro ZKM de Arte y Medios fundado en Karlsruhe, Alemania",
       url: "https://en.wikipedia.org/wiki/ZKM_Center_for_Art_and_Media"
     },
     {
       year: 1990,
-      text: "Invention of the World Wide Web",
+      text: "Invención de la World Wide Web",
       url: "https://en.wikipedia.org/wiki/World_Wide_Web"
     },
     {
       year: 1991,
-      text: "Linux 0.01 released by Linus Torvalds",
+      text: "Linux 0.01 lanzado por Linus Torvalds",
       url: "https://en.wikipedia.org/wiki/Linux_kernel"
     },
     {
       year: 1992,
-      text: "AT&T introduces the video phone, an early attempt at video calling",
+      text: "AT&T introduce el videoteléfono, un intento temprano de videollamadas",
       url: "https://www.britannica.com/technology/videophone"
     },
     {
       year: 1993,
-      text: "Wired magazine founded, covering the intersection of technology, culture, and art",
+      text: "Revista Wired fundada, cubriendo la intersección de tecnología, cultura y arte",
       url: "https://en.wikipedia.org/wiki/Wired_(magazine)"
     },
     {
       year: 1994,
-      text: "Netscape goes on market boursark, popularizing the internet for mainstream users",
+      text: "Netscape sale al mercado bursátil, popularizando internet para usuarios convencionales",
       url: "https://en.wikipedia.org/wiki/Netscape"
     },
     {
       year: 1995,
-      text: "artnet founded by Charles Saatchi, one of the first online art marketplaces",
+      text: "artnet fundada por Charles Saatchi, uno de los primeros mercados de arte en línea",
       url: "https://en.wikipedia.org/wiki/Artnet"
     },
     {
       year: 1995,
-      text: "World's first web art museum acquisition: The World's First Collaborative Sentence by Douglas Davis donated to Withney Museum of American Art",
+      text: "Primera adquisición de arte web del mundo: La Primera Oración Colaborativa del Mundo de Douglas Davis donada al Museo Whitney de Arte Americano",
       url: "https://proyectoidis.org/the-worlds-first-collaborative-sentence/"
     },
     {
       year: 1996,
-      text: "Rhizome founded by Mark Tribe, dedicated to the preservation and presentation of digital art",
+      text: "Rhizome fundada por Mark Tribe, dedicada a la preservación y presentación de arte digital",
       url: "https://rhizome.org/about/"
     },
     {
       year: 1996,
-      text: "Eyebeam founded in New York, a center for art and technology",
+      text: "Eyebeam fundada en Nueva York, un centro de arte y tecnología",
       url: "https://www.eyebeam.org/"
     },
     {
       year: 1997,
-      text: "ZKM center for Art and Media in Karlsruhe, Germany, opens to the public as a major institution dedicated to media art",
+      text: "Centro ZKM de Arte y Medios en Karlsruhe, Alemania, abre al público como una institución importante dedicada al arte de medios",
       url: "https://www.zkm.de/en"
     },
     {
       year: 1997,
-      text: "Tokio InterCommunication Center (TICC) opens in Tokyo, Japan, as a hub for media art",
+      text: "Centro de InterComunicación de Tokio (TICC) abre en Tokio, Japón, como centro de arte de medios",
       url: "https://www.ntticc.or.jp/en/"
     },
     {
       year: 1998,
-      text: "Google founded by Larry Page and Sergey Brin, revolutionizing access to information and impacting digital culture profoundly",
+      text: "Google fundada por Larry Page y Sergey Brin, revolucionando el acceso a la información e impactando profundamente la cultura digital",
       url: "https://en.wikipedia.org/wiki/Google"
     },
     {
       year: 1999,
-      text: "Napster launched by Shawn Fanning, pioneering peer-to-peer file sharing and impacting digital media distribution",
+      text: "Napster lanzado por Shawn Fanning, pionero en el intercambio de archivos peer-to-peer e impactando la distribución de medios digitales",
       url: "https://en.wikipedia.org/wiki/Napster"
     }
   ];
